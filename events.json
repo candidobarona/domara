@@ -1,1138 +1,343 @@
-{
- "generated": "2026-11-19T09:30:39.917Z",
- "report": [
-  {
-   "id": "laliga",
-   "name": "LaLiga",
-   "count": 20,
-   "status": "ok",
-   "note": "",
-   "src": "soccer_spain_la_liga"
-  },
-  {
-   "id": "pl",
-   "name": "Premier League",
-   "count": 20,
-   "status": "ok",
-   "note": "",
-   "src": "soccer_epl"
-  },
-  {
-   "id": "sa",
-   "name": "Serie A",
-   "count": 20,
-   "status": "ok",
-   "note": "",
-   "src": "soccer_italy_serie_a"
-  },
-  {
-   "id": "l1",
-   "name": "Ligue 1",
-   "count": 18,
-   "status": "ok",
-   "note": "",
-   "src": "soccer_france_ligue_one"
-  },
-  {
-   "id": "bl",
-   "name": "Bundesliga",
-   "count": 18,
-   "status": "ok",
-   "note": "",
-   "src": "soccer_germany_bundesliga"
-  },
-  {
-   "id": "pt",
-   "name": "Liga Portugal",
-   "count": 9,
-   "status": "ok",
-   "note": "",
-   "src": "soccer_portugal_primeira_liga"
-  },
-  {
-   "id": "ucl",
-   "name": "Champions League",
-   "count": 18,
-   "status": "ok",
-   "note": "",
-   "src": "soccer_uefa_champs_league"
-  },
-  {
-   "id": "uel",
-   "name": "Europa League",
-   "count": 18,
-   "status": "ok",
-   "note": "",
-   "src": "soccer_uefa_europa_league"
-  },
-  {
-   "id": "unl",
-   "name": "Nations League",
-   "count": 0,
-   "status": "inactive",
-   "note": "sport_key not active right now (off-season or not offered)",
-   "src": "soccer_uefa_nations_league"
-  },
-  {
-   "id": "arg",
-   "name": "Liga Argentina",
-   "count": 8,
-   "status": "ok",
-   "note": "",
-   "src": "soccer_argentina_primera_division"
-  },
-  {
-   "id": "bra",
-   "name": "Brasileirão",
-   "count": 17,
-   "status": "ok",
-   "note": "",
-   "src": "soccer_brazil_campeonato"
-  },
-  {
-   "id": "nba",
-   "name": "NBA",
-   "count": 4,
-   "status": "ok",
-   "note": "",
-   "src": "basketball_nba"
-  },
-  {
-   "id": "nfl",
-   "name": "NFL",
-   "count": 29,
-   "status": "ok",
-   "note": "",
-   "src": "americanfootball_nfl"
-  },
-  {
-   "id": "rwc",
-   "name": "Rugby World Cup",
-   "count": 0,
-   "status": "inactive",
-   "note": "sport_key not active right now (off-season or not offered)",
-   "src": "rugbyunion_world_cup"
-  },
-  {
-   "id": "6n",
-   "name": "Six Nations",
-   "count": 0,
-   "status": "inactive",
-   "note": "sport_key not active right now (off-season or not offered)",
-   "src": "rugbyunion_six_nations"
-  },
-  {
-   "id": "trc",
-   "name": "Rugby Championship",
-   "count": 0,
-   "status": "inactive",
-   "note": "sport_key not active right now (off-season or not offered)",
-   "src": "rugbyunion_rugby_championship"
-  },
-  {
-   "id": "nc",
-   "name": "Nations Championship",
-   "count": 0,
-   "status": "inactive",
-   "note": "sport_key not active right now (off-season or not offered)",
-   "src": "rugbyunion_international"
-  }
- ],
- "events": [
-  {
-   "c": "bra",
-   "s": "2026-11-19T22:30:00.000Z",
-   "title": "Vitoria vs Bragantino-SP"
-  },
-  {
-   "c": "bra",
-   "s": "2026-11-19T22:30:00.000Z",
-   "title": "Vasco da Gama vs Internacional"
-  },
-  {
-   "c": "bra",
-   "s": "2026-11-20T00:30:00.000Z",
-   "title": "Sao Paulo vs Fluminense"
-  },
-  {
-   "c": "nba",
-   "s": "2026-11-20T01:10:00.000Z",
-   "title": "Memphis Grizzlies vs Golden State Warriors"
-  },
-  {
-   "c": "nba",
-   "s": "2026-11-20T01:10:00.000Z",
-   "title": "San Antonio Spurs vs Los Angeles Clippers"
-  },
-  {
-   "c": "nba",
-   "s": "2026-11-20T01:10:00.000Z",
-   "title": "Milwaukee Bucks vs Portland Trail Blazers"
-  },
-  {
-   "c": "nba",
-   "s": "2026-11-20T01:10:00.000Z",
-   "title": "Minnesota Timberwolves vs New York Knicks"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-20T01:15:00.000Z",
-   "title": "Houston Texans vs Indianapolis Colts"
-  },
-  {
-   "c": "bl",
-   "s": "2026-11-20T19:30:00.000Z",
-   "title": "Bayern Munich vs 1. FC Köln"
-  },
-  {
-   "c": "l1",
-   "s": "2026-11-20T19:45:00.000Z",
-   "title": "Troyes vs Le Havre"
-  },
-  {
-   "c": "laliga",
-   "s": "2026-11-20T20:00:00.000Z",
-   "title": "Athletic Bilbao vs Espanyol"
-  },
-  {
-   "c": "arg",
-   "s": "2026-11-20T23:00:00.000Z",
-   "title": "Velez Sarsfield BA vs Belgrano de Cordoba"
-  },
-  {
-   "c": "pl",
-   "s": "2026-11-21T12:30:00.000Z",
-   "title": "Manchester City vs Fulham"
-  },
-  {
-   "c": "laliga",
-   "s": "2026-11-21T13:00:00.000Z",
-   "title": "Alavés vs Deportivo La Coruña"
-  },
-  {
-   "c": "sa",
-   "s": "2026-11-21T14:00:00.000Z",
-   "title": "Como vs Cagliari"
-  },
-  {
-   "c": "sa",
-   "s": "2026-11-21T14:00:00.000Z",
-   "title": "Lazio vs Lecce"
-  },
-  {
-   "c": "bl",
-   "s": "2026-11-21T14:30:00.000Z",
-   "title": "Bayer Leverkusen vs SC Paderborn"
-  },
-  {
-   "c": "bl",
-   "s": "2026-11-21T14:30:00.000Z",
-   "title": "Borussia Monchengladbach vs Borussia Dortmund"
-  },
-  {
-   "c": "bl",
-   "s": "2026-11-21T14:30:00.000Z",
-   "title": "Eintracht Frankfurt vs TSG Hoffenheim"
-  },
-  {
-   "c": "bl",
-   "s": "2026-11-21T14:30:00.000Z",
-   "title": "Elversberg vs SC Freiburg"
-  },
-  {
-   "c": "bl",
-   "s": "2026-11-21T14:30:00.000Z",
-   "title": "Union Berlin vs RB Leipzig"
-  },
-  {
-   "c": "pl",
-   "s": "2026-11-21T15:00:00.000Z",
-   "title": "Aston Villa vs Sunderland"
-  },
-  {
-   "c": "pl",
-   "s": "2026-11-21T15:00:00.000Z",
-   "title": "Bournemouth vs Nottingham Forest"
-  },
-  {
-   "c": "pl",
-   "s": "2026-11-21T15:00:00.000Z",
-   "title": "Chelsea vs Leeds United"
-  },
-  {
-   "c": "pl",
-   "s": "2026-11-21T15:00:00.000Z",
-   "title": "Coventry City vs Crystal Palace"
-  },
-  {
-   "c": "pl",
-   "s": "2026-11-21T15:00:00.000Z",
-   "title": "Tottenham Hotspur vs Ipswich Town"
-  },
-  {
-   "c": "laliga",
-   "s": "2026-11-21T15:15:00.000Z",
-   "title": "Rayo Vallecano vs Valencia"
-  },
-  {
-   "c": "l1",
-   "s": "2026-11-21T16:15:00.000Z",
-   "title": "Nice vs Paris Saint Germain"
-  },
-  {
-   "c": "sa",
-   "s": "2026-11-21T17:00:00.000Z",
-   "title": "Parma vs AS Roma"
-  },
-  {
-   "c": "laliga",
-   "s": "2026-11-21T17:30:00.000Z",
-   "title": "Sevilla vs Real Betis"
-  },
-  {
-   "c": "pl",
-   "s": "2026-11-21T17:30:00.000Z",
-   "title": "Newcastle United vs Arsenal"
-  },
-  {
-   "c": "bl",
-   "s": "2026-11-21T17:30:00.000Z",
-   "title": "FC Schalke 04 vs VfB Stuttgart"
-  },
-  {
-   "c": "arg",
-   "s": "2026-11-21T18:00:00.000Z",
-   "title": "Defensa y Justicia vs Barracas Central"
-  },
-  {
-   "c": "bra",
-   "s": "2026-11-21T19:30:00.000Z",
-   "title": "Palmeiras vs Flamengo"
-  },
-  {
-   "c": "sa",
-   "s": "2026-11-21T19:45:00.000Z",
-   "title": "Napoli vs Torino"
-  },
-  {
-   "c": "l1",
-   "s": "2026-11-21T19:45:00.000Z",
-   "title": "AS Monaco vs Auxerre"
-  },
-  {
-   "c": "l1",
-   "s": "2026-11-21T19:45:00.000Z",
-   "title": "Strasbourg vs Brest"
-  },
-  {
-   "c": "l1",
-   "s": "2026-11-21T19:45:00.000Z",
-   "title": "Lille vs Lyon"
-  },
-  {
-   "c": "l1",
-   "s": "2026-11-21T19:45:00.000Z",
-   "title": "RC Lens vs Toulouse"
-  },
-  {
-   "c": "laliga",
-   "s": "2026-11-21T20:00:00.000Z",
-   "title": "Real Madrid vs Celta Vigo"
-  },
-  {
-   "c": "arg",
-   "s": "2026-11-21T20:00:00.000Z",
-   "title": "Argentinos Juniors vs Independiente"
-  },
-  {
-   "c": "bra",
-   "s": "2026-11-21T20:30:00.000Z",
-   "title": "Bahia vs Coritiba"
-  },
-  {
-   "c": "bra",
-   "s": "2026-11-22T00:00:00.000Z",
-   "title": "Chapecoense vs Cruzeiro"
-  },
-  {
-   "c": "sa",
-   "s": "2026-11-22T11:30:00.000Z",
-   "title": "Juventus vs Venezia"
-  },
-  {
-   "c": "laliga",
-   "s": "2026-11-22T13:00:00.000Z",
-   "title": "Barcelona vs Villarreal"
-  },
-  {
-   "c": "pl",
-   "s": "2026-11-22T14:00:00.000Z",
-   "title": "Hull City vs Brighton and Hove Albion"
-  },
-  {
-   "c": "sa",
-   "s": "2026-11-22T14:00:00.000Z",
-   "title": "Bologna vs Udinese"
-  },
-  {
-   "c": "sa",
-   "s": "2026-11-22T14:00:00.000Z",
-   "title": "Sassuolo vs Genoa"
-  },
-  {
-   "c": "l1",
-   "s": "2026-11-22T14:00:00.000Z",
-   "title": "Paris FC vs Angers"
-  },
-  {
-   "c": "bl",
-   "s": "2026-11-22T14:30:00.000Z",
-   "title": "Augsburg vs FSV Mainz 05"
-  },
-  {
-   "c": "laliga",
-   "s": "2026-11-22T15:15:00.000Z",
-   "title": "Real Racing Club de Santander vs Real Sociedad"
-  },
-  {
-   "c": "l1",
-   "s": "2026-11-22T16:15:00.000Z",
-   "title": "Lorient vs Rennes"
-  },
-  {
-   "c": "pl",
-   "s": "2026-11-22T16:30:00.000Z",
-   "title": "Liverpool vs Manchester United"
-  },
-  {
-   "c": "bl",
-   "s": "2026-11-22T16:30:00.000Z",
-   "title": "Werder Bremen vs Hamburger SV"
-  },
-  {
-   "c": "sa",
-   "s": "2026-11-22T17:00:00.000Z",
-   "title": "AC Milan vs Frosinone"
-  },
-  {
-   "c": "laliga",
-   "s": "2026-11-22T17:30:00.000Z",
-   "title": "CA Osasuna vs Málaga"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-22T18:00:00.000Z",
-   "title": "Kansas City Chiefs vs Arizona Cardinals"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-22T18:00:00.000Z",
-   "title": "Carolina Panthers vs Baltimore Ravens"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-22T18:00:00.000Z",
-   "title": "Buffalo Bills vs Miami Dolphins"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-22T18:00:00.000Z",
-   "title": "Chicago Bears vs New Orleans Saints"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-22T18:00:00.000Z",
-   "title": "Dallas Cowboys vs Tennessee Titans"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-22T18:00:00.000Z",
-   "title": "Detroit Lions vs Tampa Bay Buccaneers"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-22T18:00:00.000Z",
-   "title": "Philadelphia Eagles vs Pittsburgh Steelers"
-  },
-  {
-   "c": "arg",
-   "s": "2026-11-22T19:00:00.000Z",
-   "title": "Rosario Central vs Gimnasia Mendoza"
-  },
-  {
-   "c": "bra",
-   "s": "2026-11-22T19:00:00.000Z",
-   "title": "Atletico Paranaense vs Remo"
-  },
-  {
-   "c": "sa",
-   "s": "2026-11-22T19:45:00.000Z",
-   "title": "Atalanta BC vs Inter Milan"
-  },
-  {
-   "c": "l1",
-   "s": "2026-11-22T19:45:00.000Z",
-   "title": "Marseille vs Le Mans FC"
-  },
-  {
-   "c": "laliga",
-   "s": "2026-11-22T20:00:00.000Z",
-   "title": "Getafe vs Atlético Madrid"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-22T21:05:00.000Z",
-   "title": "Los Angeles Chargers vs New York Jets"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-22T21:25:00.000Z",
-   "title": "Denver Broncos vs Las Vegas Raiders"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-22T21:25:00.000Z",
-   "title": "New York Giants vs Jacksonville Jaguars"
-  },
-  {
-   "c": "bra",
-   "s": "2026-11-22T21:30:00.000Z",
-   "title": "Fluminense vs Mirassol"
-  },
-  {
-   "c": "arg",
-   "s": "2026-11-22T22:00:00.000Z",
-   "title": "River Plate vs Lanus"
-  },
-  {
-   "c": "bra",
-   "s": "2026-11-22T22:30:00.000Z",
-   "title": "Bragantino-SP vs Vasco da Gama"
-  },
-  {
-   "c": "arg",
-   "s": "2026-11-23T01:00:00.000Z",
-   "title": "Instituto de Córdoba vs Atlético Huracán"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-23T01:20:00.000Z",
-   "title": "San Francisco 49ers vs Minnesota Vikings"
-  },
-  {
-   "c": "sa",
-   "s": "2026-11-23T19:45:00.000Z",
-   "title": "Monza vs Fiorentina"
-  },
-  {
-   "c": "laliga",
-   "s": "2026-11-23T20:00:00.000Z",
-   "title": "Levante vs Elche CF"
-  },
-  {
-   "c": "pl",
-   "s": "2026-11-23T20:00:00.000Z",
-   "title": "Brentford vs Everton"
-  },
-  {
-   "c": "arg",
-   "s": "2026-11-23T20:00:00.000Z",
-   "title": "Gimnasia La Plata vs Newells Old Boys"
-  },
-  {
-   "c": "bra",
-   "s": "2026-11-23T22:30:00.000Z",
-   "title": "Internacional vs Vitoria"
-  },
-  {
-   "c": "bra",
-   "s": "2026-11-23T23:00:00.000Z",
-   "title": "Botafogo vs Sao Paulo"
-  },
-  {
-   "c": "bra",
-   "s": "2026-11-24T00:00:00.000Z",
-   "title": "Santos vs Grêmio"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-24T01:15:00.000Z",
-   "title": "Washington Commanders vs Cincinnati Bengals"
-  },
-  {
-   "c": "ucl",
-   "s": "2026-11-24T17:45:00.000Z",
-   "title": "Galatasaray vs Aston Villa"
-  },
-  {
-   "c": "ucl",
-   "s": "2026-11-24T17:45:00.000Z",
-   "title": "Bodø/Glimt vs LASK"
-  },
-  {
-   "c": "ucl",
-   "s": "2026-11-24T20:00:00.000Z",
-   "title": "Como vs AEK Athens"
-  },
-  {
-   "c": "ucl",
-   "s": "2026-11-24T20:00:00.000Z",
-   "title": "Arsenal vs Borussia Dortmund"
-  },
-  {
-   "c": "ucl",
-   "s": "2026-11-24T20:00:00.000Z",
-   "title": "Feyenoord vs Porto"
-  },
-  {
-   "c": "ucl",
-   "s": "2026-11-24T20:00:00.000Z",
-   "title": "Manchester City vs Napoli"
-  },
-  {
-   "c": "ucl",
-   "s": "2026-11-24T20:00:00.000Z",
-   "title": "Real Madrid vs PSV Eindhoven"
-  },
-  {
-   "c": "ucl",
-   "s": "2026-11-24T20:00:00.000Z",
-   "title": "RB Leipzig vs RC Lens"
-  },
-  {
-   "c": "ucl",
-   "s": "2026-11-24T20:00:00.000Z",
-   "title": "ŠK Slovan Bratislava vs Real Betis"
-  },
-  {
-   "c": "bra",
-   "s": "2026-11-24T21:00:00.000Z",
-   "title": "Chapecoense vs Palmeiras"
-  },
-  {
-   "c": "ucl",
-   "s": "2026-11-25T17:45:00.000Z",
-   "title": "Sabah FK vs Barcelona"
-  },
-  {
-   "c": "ucl",
-   "s": "2026-11-25T17:45:00.000Z",
-   "title": "Slavia Praha vs Villarreal"
-  },
-  {
-   "c": "ucl",
-   "s": "2026-11-25T20:00:00.000Z",
-   "title": "Paris Saint Germain vs AS Roma"
-  },
-  {
-   "c": "ucl",
-   "s": "2026-11-25T20:00:00.000Z",
-   "title": "Atlético Madrid vs Viking FK"
-  },
-  {
-   "c": "ucl",
-   "s": "2026-11-25T20:00:00.000Z",
-   "title": "Lille vs Bayern Munich"
-  },
-  {
-   "c": "ucl",
-   "s": "2026-11-25T20:00:00.000Z",
-   "title": "Club Brugge vs Liverpool"
-  },
-  {
-   "c": "ucl",
-   "s": "2026-11-25T20:00:00.000Z",
-   "title": "Shakhtar Donetsk vs Fenerbahce"
-  },
-  {
-   "c": "ucl",
-   "s": "2026-11-25T20:00:00.000Z",
-   "title": "Inter Milan vs VfB Stuttgart"
-  },
-  {
-   "c": "ucl",
-   "s": "2026-11-25T20:00:00.000Z",
-   "title": "Sporting Lisbon vs Manchester United"
-  },
-  {
-   "c": "bra",
-   "s": "2026-11-25T23:00:00.000Z",
-   "title": "Atletico Mineiro vs Corinthians"
-  },
-  {
-   "c": "arg",
-   "s": "2026-11-26T00:00:00.000Z",
-   "title": "Boca Juniors vs Independiente Rivadavia"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-26T01:00:00.000Z",
-   "title": "Los Angeles Rams vs Green Bay Packers"
-  },
-  {
-   "c": "uel",
-   "s": "2026-11-26T17:45:00.000Z",
-   "title": "Olympiakos Piraeus vs AC Milan"
-  },
-  {
-   "c": "uel",
-   "s": "2026-11-26T17:45:00.000Z",
-   "title": "Dinamo Zagreb vs Bayer Leverkusen"
-  },
-  {
-   "c": "uel",
-   "s": "2026-11-26T17:45:00.000Z",
-   "title": "Viktoria Plzeň vs Benfica"
-  },
-  {
-   "c": "uel",
-   "s": "2026-11-26T17:45:00.000Z",
-   "title": "Besiktas JK vs Hapoel Be'er Sheva"
-  },
-  {
-   "c": "uel",
-   "s": "2026-11-26T17:45:00.000Z",
-   "title": "Celta Vigo vs Bournemouth"
-  },
-  {
-   "c": "uel",
-   "s": "2026-11-26T17:45:00.000Z",
-   "title": "Salzburg vs FC Ararat-Armenia"
-  },
-  {
-   "c": "uel",
-   "s": "2026-11-26T17:45:00.000Z",
-   "title": "Union Saint-Gilloise vs Lech Poznań"
-  },
-  {
-   "c": "uel",
-   "s": "2026-11-26T17:45:00.000Z",
-   "title": "Marseille vs PFC Levski Sofia"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-26T18:00:00.000Z",
-   "title": "Detroit Lions vs Chicago Bears"
-  },
-  {
-   "c": "uel",
-   "s": "2026-11-26T20:00:00.000Z",
-   "title": "Sparta Prague vs AZ Alkmaar"
-  },
-  {
-   "c": "uel",
-   "s": "2026-11-26T20:00:00.000Z",
-   "title": "OFI Crete vs Anderlecht"
-  },
-  {
-   "c": "uel",
-   "s": "2026-11-26T20:00:00.000Z",
-   "title": "Torreense vs Celtic"
-  },
-  {
-   "c": "uel",
-   "s": "2026-11-26T20:00:00.000Z",
-   "title": "Crystal Palace vs Real Sociedad"
-  },
-  {
-   "c": "uel",
-   "s": "2026-11-26T20:00:00.000Z",
-   "title": "Ferencváros TC vs NK Celje"
-  },
-  {
-   "c": "uel",
-   "s": "2026-11-26T20:00:00.000Z",
-   "title": "Sunderland vs Jagiellonia Białystok"
-  },
-  {
-   "c": "uel",
-   "s": "2026-11-26T20:00:00.000Z",
-   "title": "Juventus vs Omonoia FC"
-  },
-  {
-   "c": "uel",
-   "s": "2026-11-26T20:00:00.000Z",
-   "title": "Lyon vs Lillestrom"
-  },
-  {
-   "c": "uel",
-   "s": "2026-11-26T20:00:00.000Z",
-   "title": "NEC Nijmegen vs Rennes"
-  },
-  {
-   "c": "uel",
-   "s": "2026-11-26T20:00:00.000Z",
-   "title": "TSG Hoffenheim vs SK Sturm Graz"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-26T21:30:00.000Z",
-   "title": "Dallas Cowboys vs Philadelphia Eagles"
-  },
-  {
-   "c": "bra",
-   "s": "2026-11-26T23:00:00.000Z",
-   "title": "Sao Paulo vs Remo"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-27T01:20:00.000Z",
-   "title": "Buffalo Bills vs Kansas City Chiefs"
-  },
-  {
-   "c": "bl",
-   "s": "2026-11-27T19:30:00.000Z",
-   "title": "Werder Bremen vs Borussia Monchengladbach"
-  },
-  {
-   "c": "sa",
-   "s": "2026-11-27T19:45:00.000Z",
-   "title": "Venezia vs Bologna"
-  },
-  {
-   "c": "l1",
-   "s": "2026-11-27T19:45:00.000Z",
-   "title": "Brest vs Paris FC"
-  },
-  {
-   "c": "laliga",
-   "s": "2026-11-27T20:00:00.000Z",
-   "title": "Levante vs Real Racing Club de Santander"
-  },
-  {
-   "c": "pl",
-   "s": "2026-11-27T20:00:00.000Z",
-   "title": "Nottingham Forest vs Chelsea"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-27T20:00:00.000Z",
-   "title": "Pittsburgh Steelers vs Denver Broncos"
-  },
-  {
-   "c": "pt",
-   "s": "2026-11-27T20:15:00.000Z",
-   "title": "CS Maritimo vs Nacional"
-  },
-  {
-   "c": "bra",
-   "s": "2026-11-27T23:00:00.000Z",
-   "title": "Fluminense vs Cruzeiro"
-  },
-  {
-   "c": "laliga",
-   "s": "2026-11-28T13:00:00.000Z",
-   "title": "Real Betis vs Rayo Vallecano"
-  },
-  {
-   "c": "sa",
-   "s": "2026-11-28T14:00:00.000Z",
-   "title": "Frosinone vs Parma"
-  },
-  {
-   "c": "bl",
-   "s": "2026-11-28T14:30:00.000Z",
-   "title": "1. FC Köln vs Elversberg"
-  },
-  {
-   "c": "bl",
-   "s": "2026-11-28T14:30:00.000Z",
-   "title": "Hamburger SV vs Bayern Munich"
-  },
-  {
-   "c": "bl",
-   "s": "2026-11-28T14:30:00.000Z",
-   "title": "SC Paderborn vs FC Schalke 04"
-  },
-  {
-   "c": "bl",
-   "s": "2026-11-28T14:30:00.000Z",
-   "title": "FSV Mainz 05 vs Union Berlin"
-  },
-  {
-   "c": "pl",
-   "s": "2026-11-28T15:00:00.000Z",
-   "title": "Manchester United vs Brentford"
-  },
-  {
-   "c": "pl",
-   "s": "2026-11-28T15:00:00.000Z",
-   "title": "Leeds United vs Coventry City"
-  },
-  {
-   "c": "laliga",
-   "s": "2026-11-28T15:15:00.000Z",
-   "title": "Málaga vs Athletic Bilbao"
-  },
-  {
-   "c": "pt",
-   "s": "2026-11-28T15:30:00.000Z",
-   "title": "Arouca vs Rio Ave FC"
-  },
-  {
-   "c": "pt",
-   "s": "2026-11-28T15:30:00.000Z",
-   "title": "Moreirense FC vs Santa Clara"
-  },
-  {
-   "c": "l1",
-   "s": "2026-11-28T16:15:00.000Z",
-   "title": "Angers vs RC Lens"
-  },
-  {
-   "c": "sa",
-   "s": "2026-11-28T17:00:00.000Z",
-   "title": "Torino vs Lazio"
-  },
-  {
-   "c": "laliga",
-   "s": "2026-11-28T17:30:00.000Z",
-   "title": "Elche CF vs Atlético Madrid"
-  },
-  {
-   "c": "pl",
-   "s": "2026-11-28T17:30:00.000Z",
-   "title": "Ipswich Town vs Aston Villa"
-  },
-  {
-   "c": "bl",
-   "s": "2026-11-28T17:30:00.000Z",
-   "title": "VfB Stuttgart vs Eintracht Frankfurt"
-  },
-  {
-   "c": "pt",
-   "s": "2026-11-28T18:00:00.000Z",
-   "title": "Académico de Viseu vs Alverca"
-  },
-  {
-   "c": "sa",
-   "s": "2026-11-28T19:45:00.000Z",
-   "title": "Inter Milan vs Genoa"
-  },
-  {
-   "c": "l1",
-   "s": "2026-11-28T19:45:00.000Z",
-   "title": "Le Havre vs Strasbourg"
-  },
-  {
-   "c": "l1",
-   "s": "2026-11-28T19:45:00.000Z",
-   "title": "Le Mans FC vs Lille"
-  },
-  {
-   "c": "l1",
-   "s": "2026-11-28T19:45:00.000Z",
-   "title": "Paris Saint Germain vs Lorient"
-  },
-  {
-   "c": "l1",
-   "s": "2026-11-28T19:45:00.000Z",
-   "title": "Nice vs Troyes"
-  },
-  {
-   "c": "laliga",
-   "s": "2026-11-28T20:00:00.000Z",
-   "title": "Real Madrid vs Alavés"
-  },
-  {
-   "c": "pt",
-   "s": "2026-11-28T20:30:00.000Z",
-   "title": "Vitória SC vs CF Estrela"
-  },
-  {
-   "c": "bra",
-   "s": "2026-11-29T00:00:00.000Z",
-   "title": "Botafogo vs Bahia"
-  },
-  {
-   "c": "sa",
-   "s": "2026-11-29T11:30:00.000Z",
-   "title": "Udinese vs Fiorentina"
-  },
-  {
-   "c": "pl",
-   "s": "2026-11-29T12:00:00.000Z",
-   "title": "Everton vs Liverpool"
-  },
-  {
-   "c": "laliga",
-   "s": "2026-11-29T13:00:00.000Z",
-   "title": "Valencia vs CA Osasuna"
-  },
-  {
-   "c": "sa",
-   "s": "2026-11-29T14:00:00.000Z",
-   "title": "Sassuolo vs Napoli"
-  },
-  {
-   "c": "l1",
-   "s": "2026-11-29T14:00:00.000Z",
-   "title": "Auxerre vs Marseille"
-  },
-  {
-   "c": "pl",
-   "s": "2026-11-29T14:05:00.000Z",
-   "title": "Fulham vs Bournemouth"
-  },
-  {
-   "c": "pl",
-   "s": "2026-11-29T14:05:00.000Z",
-   "title": "Brighton and Hove Albion vs Newcastle United"
-  },
-  {
-   "c": "pl",
-   "s": "2026-11-29T14:05:00.000Z",
-   "title": "Crystal Palace vs Hull City"
-  },
-  {
-   "c": "pl",
-   "s": "2026-11-29T14:05:00.000Z",
-   "title": "Sunderland vs Tottenham Hotspur"
-  },
-  {
-   "c": "bl",
-   "s": "2026-11-29T14:30:00.000Z",
-   "title": "SC Freiburg vs RB Leipzig"
-  },
-  {
-   "c": "laliga",
-   "s": "2026-11-29T15:15:00.000Z",
-   "title": "Deportivo La Coruña vs Barcelona"
-  },
-  {
-   "c": "l1",
-   "s": "2026-11-29T16:15:00.000Z",
-   "title": "Toulouse vs Rennes"
-  },
-  {
-   "c": "pl",
-   "s": "2026-11-29T16:30:00.000Z",
-   "title": "Arsenal vs Manchester City"
-  },
-  {
-   "c": "bl",
-   "s": "2026-11-29T16:30:00.000Z",
-   "title": "TSG Hoffenheim vs Augsburg"
-  },
-  {
-   "c": "sa",
-   "s": "2026-11-29T17:00:00.000Z",
-   "title": "AS Roma vs Monza"
-  },
-  {
-   "c": "laliga",
-   "s": "2026-11-29T17:30:00.000Z",
-   "title": "Celta Vigo vs Villarreal"
-  },
-  {
-   "c": "pt",
-   "s": "2026-11-29T18:00:00.000Z",
-   "title": "Gil Vicente vs Estoril"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-29T18:00:00.000Z",
-   "title": "Minnesota Vikings vs Atlanta Falcons"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-29T18:00:00.000Z",
-   "title": "Houston Texans vs Baltimore Ravens"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-29T18:00:00.000Z",
-   "title": "Cincinnati Bengals vs New Orleans Saints"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-29T18:00:00.000Z",
-   "title": "Indianapolis Colts vs New York Giants"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-29T18:00:00.000Z",
-   "title": "Jacksonville Jaguars vs Tennessee Titans"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-29T18:00:00.000Z",
-   "title": "Miami Dolphins vs New York Jets"
-  },
-  {
-   "c": "bl",
-   "s": "2026-11-29T18:30:00.000Z",
-   "title": "Borussia Dortmund vs Bayer Leverkusen"
-  },
-  {
-   "c": "sa",
-   "s": "2026-11-29T19:45:00.000Z",
-   "title": "Como vs Juventus"
-  },
-  {
-   "c": "l1",
-   "s": "2026-11-29T19:45:00.000Z",
-   "title": "Lyon vs AS Monaco"
-  },
-  {
-   "c": "laliga",
-   "s": "2026-11-29T20:00:00.000Z",
-   "title": "Real Sociedad vs Sevilla"
-  },
-  {
-   "c": "pt",
-   "s": "2026-11-29T20:30:00.000Z",
-   "title": "FC Porto vs Sporting Lisbon"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-29T21:05:00.000Z",
-   "title": "Los Angeles Chargers vs New England Patriots"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-29T21:25:00.000Z",
-   "title": "Arizona Cardinals vs Washington Commanders"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-29T21:25:00.000Z",
-   "title": "San Francisco 49ers vs Seattle Seahawks"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-11-30T01:20:00.000Z",
-   "title": "Cleveland Browns vs Las Vegas Raiders"
-  },
-  {
-   "c": "sa",
-   "s": "2026-11-30T17:30:00.000Z",
-   "title": "Lecce vs Atalanta BC"
-  },
-  {
-   "c": "sa",
-   "s": "2026-11-30T19:45:00.000Z",
-   "title": "Cagliari vs AC Milan"
-  },
-  {
-   "c": "laliga",
-   "s": "2026-11-30T20:00:00.000Z",
-   "title": "Espanyol vs Getafe"
-  },
-  {
-   "c": "pt",
-   "s": "2026-11-30T20:15:00.000Z",
-   "title": "Benfica vs Famalicão"
-  },
-  {
-   "c": "pt",
-   "s": "2026-11-30T20:15:00.000Z",
-   "title": "Casa Pia vs Braga"
-  },
-  {
-   "c": "nfl",
-   "s": "2026-12-01T01:15:00.000Z",
-   "title": "Tampa Bay Buccaneers vs Carolina Panthers"
-  }
- ]
-}
+{"generated":"2026-11-19T09:44:46.349Z","report":[{"key":"americanfootball_ncaaf","title":"NCAAF","group":"American Football","count":78,"status":"ok","note":""},{"key":"americanfootball_ncaaf_fcs","title":"NCAAF FCS","group":"American Football","count":56,"status":"ok","note":""},{"key":"americanfootball_nfl","title":"NFL","group":"American Football","count":29,"status":"ok","note":""},{"key":"aussierules_afl","title":"AFL","group":"Aussie Rules","count":9,"status":"ok","note":""},{"key":"aussierules_aflw","title":"AFL Women's","group":"Aussie Rules","count":2,"status":"ok","note":""},{"key":"basketball_euroleague","title":"Basketball Euroleague","group":"Basketball","count":10,"status":"ok","note":""},{"key":"basketball_nba","title":"NBA","group":"Basketball","count":4,"status":"ok","note":""},{"key":"basketball_nbl","title":"NBL","group":"Basketball","count":4,"status":"ok","note":""},{"key":"basketball_ncaab","title":"NCAAB","group":"Basketball","count":29,"status":"ok","note":""},{"key":"boxing_boxing","title":"Boxing","group":"Boxing","count":38,"status":"ok","note":""},{"key":"cricket_big_bash","title":"Big Bash","group":"Cricket","count":3,"status":"ok","note":""},{"key":"cricket_international_t20","title":"International Twenty20","group":"Cricket","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"cricket_test_match","title":"Test Matches","group":"Cricket","count":2,"status":"ok","note":""},{"key":"handball_germany_bundesliga","title":"Handball-Bundesliga","group":"Handball","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"icehockey_ahl","title":"AHL","group":"Ice Hockey","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"icehockey_sweden_allsvenskan","title":"HockeyAllsvenskan","group":"Ice Hockey","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"icehockey_liiga","title":"Liiga","group":"Ice Hockey","count":8,"status":"ok","note":""},{"key":"icehockey_mestis","title":"Mestis","group":"Ice Hockey","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"icehockey_nhl","title":"NHL","group":"Ice Hockey","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"icehockey_sweden_hockey_league","title":"SHL","group":"Ice Hockey","count":7,"status":"ok","note":""},{"key":"mma_mixed_martial_arts","title":"MMA","group":"Mixed Martial Arts","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"rugbyleague_nrl","title":"NRL","group":"Rugby League","count":9,"status":"ok","note":""},{"key":"soccer_germany_liga3","title":"3. Liga - Germany","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_australia_aleague","title":"A-League","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_sweden_allsvenskan","title":"Allsvenskan - Sweden","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_austria_bundesliga","title":"Austrian Football Bundesliga","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_belgium_first_div","title":"Belgium First Div","group":"Soccer","count":9,"status":"ok","note":""},{"key":"soccer_brazil_campeonato","title":"Brazil Série A","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_brazil_serie_b","title":"Brazil Série B","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_germany_bundesliga","title":"Bundesliga - Germany","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_germany_bundesliga2","title":"Bundesliga 2 - Germany","group":"Soccer","count":9,"status":"ok","note":""},{"key":"soccer_efl_champ","title":"Championship","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_conmebol_copa_libertadores","title":"Copa Libertadores","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_conmebol_copa_sudamericana","title":"Copa Sudamericana","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_denmark_superliga","title":"Denmark Superliga","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_germany_dfb_pokal","title":"DFB-Pokal","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_netherlands_eredivisie","title":"Dutch Eredivisie","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_england_efl_cup","title":"EFL Cup","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_poland_ekstraklasa","title":"Ekstraklasa - Poland","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_norway_eliteserien","title":"Eliteserien - Norway","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_epl","title":"EPL","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_germany_bundesliga_women","title":"Frauen-Bundesliga","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_japan_j_league","title":"J League","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_korea_kleague1","title":"K League 1","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_spain_la_liga","title":"La Liga - Spain","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_spain_segunda_division","title":"La Liga 2 - Spain","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_england_league1","title":"League 1","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_england_league2","title":"League 2","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_mexico_ligamx","title":"Liga MX","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_france_ligue_one","title":"Ligue 1 - France","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_france_ligue_two","title":"Ligue 2 - France","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_usa_mls","title":"MLS","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_russia_premier_league","title":"Premier League - Russia","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_spl","title":"Premiership - Scotland","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_portugal_primeira_liga","title":"Primeira Liga - Portugal","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_argentina_primera_division","title":"Primera División - Argentina","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_chile_campeonato","title":"Primera División - Chile","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_italy_serie_a","title":"Serie A - Italy","group":"Soccer","count":20,"status":"ok","note":""},{"key":"soccer_italy_serie_b","title":"Serie B - Italy","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_greece_super_league","title":"Super League - Greece","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_sweden_superettan","title":"Superettan - Sweden","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_switzerland_superleague","title":"Swiss Superleague","group":"Soccer","count":6,"status":"ok","note":""},{"key":"soccer_turkey_super_league","title":"Turkey Super League","group":"Soccer","count":9,"status":"ok","note":""},{"key":"soccer_uefa_champs_league","title":"UEFA Champions League","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_uefa_champs_league_women","title":"UEFA Champions League Women","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_uefa_europa_conference_league","title":"UEFA Europa Conference League","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"soccer_uefa_europa_league","title":"UEFA Europa League","group":"Soccer","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"},{"key":"tennis_atp_finals","title":"ATP Finals","group":"Tennis","count":0,"status":"error","note":"HTTP 429 - Requests are too frequent"}],"events":[
+{"id":"f3bfd45d4dad9410c237a3f4b12cb1f0","sport_key":"cricket_test_match","sport_title":"Test Matches","group":"Cricket","home_team":"Pakistan","away_team":"Sri Lanka","title":"Pakistan vs Sri Lanka","commence_time":"2026-11-19T04:30:00.000Z"},
+{"id":"d95586ea510bf7a40a5198d1d9642483","sport_key":"basketball_nbl","sport_title":"NBL","group":"Basketball","home_team":"Illawarra Hawks","away_team":"Adelaide 36ers","title":"Illawarra Hawks vs Adelaide 36ers","commence_time":"2026-11-19T08:30:00.000Z"},
+{"id":"a1f97eaa68a3751ecc021c7dbf83934d","sport_key":"icehockey_liiga","sport_title":"Liiga","group":"Ice Hockey","home_team":"Tappara","away_team":"Sport","title":"Tappara vs Sport","commence_time":"2026-11-19T16:30:00.000Z"},
+{"id":"4b4d96b108c8fc648a218e196ff50814","sport_key":"basketball_euroleague","sport_title":"Basketball Euroleague","group":"Basketball","home_team":"Maccabi Tel Aviv","away_team":"Dubai Basketball","title":"Maccabi Tel Aviv vs Dubai Basketball","commence_time":"2026-11-19T17:15:00.000Z"},
+{"id":"fd0b8dc548a91d28204f77e383c2b820","sport_key":"basketball_euroleague","sport_title":"Basketball Euroleague","group":"Basketball","home_team":"Žalgiris","away_team":"Panathinaikos","title":"Žalgiris vs Panathinaikos","commence_time":"2026-11-19T18:00:00.000Z"},
+{"id":"522aa9c3609ea2b0ac56a2886be6d6f7","sport_key":"icehockey_sweden_hockey_league","sport_title":"SHL","group":"Ice Hockey","home_team":"Brynäs IF","away_team":"Luleå HF","title":"Brynäs IF vs Luleå HF","commence_time":"2026-11-19T18:00:00.000Z"},
+{"id":"368db7ca6d0ec60e271ddf2e560742b1","sport_key":"icehockey_sweden_hockey_league","sport_title":"SHL","group":"Ice Hockey","home_team":"Djurgårdens IF","away_team":"Skellefteå AIK","title":"Djurgårdens IF vs Skellefteå AIK","commence_time":"2026-11-19T18:00:00.000Z"},
+{"id":"ea916188553f7a263cb4b4452f276f44","sport_key":"icehockey_sweden_hockey_league","sport_title":"SHL","group":"Ice Hockey","home_team":"Färjestad BK","away_team":"Frölunda HC","title":"Färjestad BK vs Frölunda HC","commence_time":"2026-11-19T18:00:00.000Z"},
+{"id":"366acae453f5ea4f36919f6214e3d9a4","sport_key":"icehockey_sweden_hockey_league","sport_title":"SHL","group":"Ice Hockey","home_team":"Linköping HC","away_team":"HV71","title":"Linköping HC vs HV71","commence_time":"2026-11-19T18:00:00.000Z"},
+{"id":"31ac4418f8b4fbb9d51e73b0b1dfef8c","sport_key":"icehockey_sweden_hockey_league","sport_title":"SHL","group":"Ice Hockey","home_team":"Växjö Lakers","away_team":"IF Björklöven","title":"Växjö Lakers vs IF Björklöven","commence_time":"2026-11-19T18:00:00.000Z"},
+{"id":"b7c900779791dd5e24eca0afdf352a84","sport_key":"icehockey_sweden_hockey_league","sport_title":"SHL","group":"Ice Hockey","home_team":"Malmö Redhawks","away_team":"Rögle BK","title":"Malmö Redhawks vs Rögle BK","commence_time":"2026-11-19T18:00:00.000Z"},
+{"id":"c5f6f6a523837125733fd2032725b567","sport_key":"icehockey_sweden_hockey_league","sport_title":"SHL","group":"Ice Hockey","home_team":"Timrå IK","away_team":"Örebro HK","title":"Timrå IK vs Örebro HK","commence_time":"2026-11-19T18:00:00.000Z"},
+{"id":"9254f51920f7e6698241302a3f949978","sport_key":"basketball_euroleague","sport_title":"Basketball Euroleague","group":"Basketball","home_team":"FC Bayern München","away_team":"Saski Baskonia","title":"FC Bayern München vs Saski Baskonia","commence_time":"2026-11-19T19:00:00.000Z"},
+{"id":"0c64e1972e0525f5cf28265902eb43ab","sport_key":"basketball_euroleague","sport_title":"Basketball Euroleague","group":"Basketball","home_team":"Pallacanestro Olimpia Milano","away_team":"Fenerbahce SK","title":"Pallacanestro Olimpia Milano vs Fenerbahce SK","commence_time":"2026-11-19T19:30:00.000Z"},
+{"id":"5246df4438e82883d2aa2437d1f9857c","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"West Virginia Mountaineers","away_team":"Florida Gators","title":"West Virginia Mountaineers vs Florida Gators","commence_time":"2026-11-19T19:30:00.000Z"},
+{"id":"9d00df6643ed2590c76cbf57c8d8b714","sport_key":"basketball_euroleague","sport_title":"Basketball Euroleague","group":"Basketball","home_team":"Paris Basketball","away_team":"Hapoel Tel Aviv","title":"Paris Basketball vs Hapoel Tel Aviv","commence_time":"2026-11-19T19:45:00.000Z"},
+{"id":"c65d74c382bec5dc7dacdb62b641728b","sport_key":"basketball_euroleague","sport_title":"Basketball Euroleague","group":"Basketball","home_team":"Valencia Basket","away_team":"Virtus Segafredo Bologna","title":"Valencia Basket vs Virtus Segafredo Bologna","commence_time":"2026-11-19T20:00:00.000Z"},
+{"id":"57ce51731aa0e3325c489d30a2b2e7ed","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"Notre Dame Fighting Irish","away_team":"Auburn Tigers","title":"Notre Dame Fighting Irish vs Auburn Tigers","commence_time":"2026-11-19T22:00:00.000Z"},
+{"id":"d68619f9f0d18808c5629bc369dbe651","sport_key":"cricket_test_match","sport_title":"Test Matches","group":"Cricket","home_team":"New Zealand","away_team":"India","title":"New Zealand vs India","commence_time":"2026-11-19T22:00:00.000Z"},
+{"id":"58f585d704a7d4680f9dd7e877eddaaf","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"Murray St Racers","away_team":"NC State Wolfpack","title":"Murray St Racers vs NC State Wolfpack","commence_time":"2026-11-19T23:00:00.000Z"},
+{"id":"54069f158a1da002d3356e5b50e57f73","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Stephen F. Austin Lumberjacks","away_team":"Northwestern State Demons","title":"Stephen F. Austin Lumberjacks vs Northwestern State Demons","commence_time":"2026-11-20T00:00:00.000Z"},
+{"id":"94d6da045bf64876ebfa87d69df70fb9","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"Jacksonville Dolphins","away_team":"Arkansas-Little Rock Trojans","title":"Jacksonville Dolphins vs Arkansas-Little Rock Trojans","commence_time":"2026-11-20T00:00:00.000Z"},
+{"id":"7c168df70997b32224c52c8ab031d704","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"St. Bonaventure Bonnies","away_team":"Buffalo Bulls","title":"St. Bonaventure Bonnies vs Buffalo Bulls","commence_time":"2026-11-20T00:00:00.000Z"},
+{"id":"daeb1516248941803c043ccbd01dd18c","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"Butler Bulldogs","away_team":"Northeastern Huskies","title":"Butler Bulldogs vs Northeastern Huskies","commence_time":"2026-11-20T00:00:00.000Z"},
+{"id":"44061430be1aeb7eff6e79c0e48ecbb9","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"Grambling St Tigers","away_team":"Southern Miss Golden Eagles","title":"Grambling St Tigers vs Southern Miss Golden Eagles","commence_time":"2026-11-20T00:00:00.000Z"},
+{"id":"bd1799e8815981f90f74e705e6660de8","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"High Point Panthers","away_team":"Montana St Bobcats","title":"High Point Panthers vs Montana St Bobcats","commence_time":"2026-11-20T00:00:00.000Z"},
+{"id":"12dc8b35d66981d6ff559ed3761c6fed","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"Quinnipiac Bobcats","away_team":"Maine Black Bears","title":"Quinnipiac Bobcats vs Maine Black Bears","commence_time":"2026-11-20T00:00:00.000Z"},
+{"id":"d6ff4d964a24be574d7438aa33061cd7","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"Ohio State Buckeyes","away_team":"UMBC Retrievers","title":"Ohio State Buckeyes vs UMBC Retrievers","commence_time":"2026-11-20T00:00:00.000Z"},
+{"id":"1a7893819f5bab2287cbc72dc8226d7e","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"Toledo Rockets","away_team":"Robert Morris Colonials","title":"Toledo Rockets vs Robert Morris Colonials","commence_time":"2026-11-20T00:00:00.000Z"},
+{"id":"608ce68eb20e7e5201fb1b804ad26141","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Temple Owls","away_team":"Rice Owls","title":"Temple Owls vs Rice Owls","commence_time":"2026-11-20T00:30:00.000Z"},
+{"id":"9fd39939b846d3cbd50dc78087ec35f1","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"Drake Bulldogs","away_team":"Charleston Cougars","title":"Drake Bulldogs vs Charleston Cougars","commence_time":"2026-11-20T00:30:00.000Z"},
+{"id":"8bc6641f480ada7dae2744e3336dbcfa","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"Louisiana Tech Bulldogs","away_team":"Tulane Green Wave","title":"Louisiana Tech Bulldogs vs Tulane Green Wave","commence_time":"2026-11-20T00:30:00.000Z"},
+{"id":"dbb1b55e5ce880c36dd40da9019cfc56","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"Houston Christian Huskies","away_team":"Georgia Southern Eagles","title":"Houston Christian Huskies vs Georgia Southern Eagles","commence_time":"2026-11-20T01:00:00.000Z"},
+{"id":"1a136a0253a5b66b6057918946a432df","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"Louisville Cardinals","away_team":"Stetson Hatters","title":"Louisville Cardinals vs Stetson Hatters","commence_time":"2026-11-20T01:00:00.000Z"},
+{"id":"b5ff26a1800958caa39a89f0235999dc","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"St. Thomas (MN) Tommies","away_team":"SE Missouri St Redhawks","title":"St. Thomas (MN) Tommies vs SE Missouri St Redhawks","commence_time":"2026-11-20T01:00:00.000Z"},
+{"id":"a25d06bbc2209ccc30f89edcbb8efb8e","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"Texas Longhorns","away_team":"Southern Utah Thunderbirds","title":"Texas Longhorns vs Southern Utah Thunderbirds","commence_time":"2026-11-20T01:00:00.000Z"},
+{"id":"a21492045a6fa8b2a6e9d8b136534ac4","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"TCU Horned Frogs","away_team":"Texas A&M Aggies","title":"TCU Horned Frogs vs Texas A&M Aggies","commence_time":"2026-11-20T01:00:00.000Z"},
+{"id":"3c082b72aa002131c276ff5e24bada1b","sport_key":"basketball_nba","sport_title":"NBA","group":"Basketball","home_team":"Memphis Grizzlies","away_team":"Golden State Warriors","title":"Memphis Grizzlies vs Golden State Warriors","commence_time":"2026-11-20T01:10:00.000Z"},
+{"id":"20fa5e2d73cec494c113790161a89aec","sport_key":"basketball_nba","sport_title":"NBA","group":"Basketball","home_team":"San Antonio Spurs","away_team":"Los Angeles Clippers","title":"San Antonio Spurs vs Los Angeles Clippers","commence_time":"2026-11-20T01:10:00.000Z"},
+{"id":"006df00e5e48650d849d1bb4cd81565d","sport_key":"basketball_nba","sport_title":"NBA","group":"Basketball","home_team":"Milwaukee Bucks","away_team":"Portland Trail Blazers","title":"Milwaukee Bucks vs Portland Trail Blazers","commence_time":"2026-11-20T01:10:00.000Z"},
+{"id":"5ee4efd00c1daaebd8249ff44fd6ac9d","sport_key":"basketball_nba","sport_title":"NBA","group":"Basketball","home_team":"Minnesota Timberwolves","away_team":"New York Knicks","title":"Minnesota Timberwolves vs New York Knicks","commence_time":"2026-11-20T01:10:00.000Z"},
+{"id":"66f9e83cf025d58acee12bce18661fb3","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Houston Texans","away_team":"Indianapolis Colts","title":"Houston Texans vs Indianapolis Colts","commence_time":"2026-11-20T01:15:00.000Z"},
+{"id":"769a46ab3c2f46e9ca8771af3d857cea","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"Rutgers Scarlet Knights","away_team":"UNLV Rebels","title":"Rutgers Scarlet Knights vs UNLV Rebels","commence_time":"2026-11-20T01:30:00.000Z"},
+{"id":"7f7fd17bc583d3d43cdde63affb31764","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"Seton Hall Pirates","away_team":"Wisconsin Badgers","title":"Seton Hall Pirates vs Wisconsin Badgers","commence_time":"2026-11-20T01:30:00.000Z"},
+{"id":"32098b4b5ed4967c39128b31e6d16b6c","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"New Mexico St Aggies","away_team":"UTEP Miners","title":"New Mexico St Aggies vs UTEP Miners","commence_time":"2026-11-20T02:00:00.000Z"},
+{"id":"112a3e561a6b673b4ca74bb0e0605c2c","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"Oregon Ducks","away_team":"Oregon St Beavers","title":"Oregon Ducks vs Oregon St Beavers","commence_time":"2026-11-20T02:00:00.000Z"},
+{"id":"06c795c1626c246ad89e38eb1a35dbfb","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"Pepperdine Waves","away_team":"UC Santa Barbara Gauchos","title":"Pepperdine Waves vs UC Santa Barbara Gauchos","commence_time":"2026-11-20T02:00:00.000Z"},
+{"id":"028a30dac6c59487da6c8a7d657875e0","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"Washington Huskies","away_team":"Utah Tech Trailblazers","title":"Washington Huskies vs Utah Tech Trailblazers","commence_time":"2026-11-20T02:00:00.000Z"},
+{"id":"cd5851d9377b5aa32b67f9c534385a0c","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"California Golden Bears","away_team":"East Texas A&M Lions","title":"California Golden Bears vs East Texas A&M Lions","commence_time":"2026-11-20T03:00:00.000Z"},
+{"id":"df2f770cd36480fbf467976988b1bd8b","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"Stanford Cardinal","away_team":"Sacramento St Hornets","title":"Stanford Cardinal vs Sacramento St Hornets","commence_time":"2026-11-20T03:00:00.000Z"},
+{"id":"42a35684e7ff6f13af5834f9a5004df6","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"Santa Clara Broncos","away_team":"VCU Rams","title":"Santa Clara Broncos vs VCU Rams","commence_time":"2026-11-20T03:30:00.000Z"},
+{"id":"6d51497e3276256e5dd07220b624c37f","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"Kansas Jayhawks","away_team":"Houston Cougars","title":"Kansas Jayhawks vs Houston Cougars","commence_time":"2026-11-20T04:00:00.000Z"},
+{"id":"9b9dda4d07eb93b5e16e9fc62ff01ca3","sport_key":"basketball_ncaab","sport_title":"NCAAB","group":"Basketball","home_team":"USC Trojans","away_team":"Tarleton State Texans","title":"USC Trojans vs Tarleton State Texans","commence_time":"2026-11-20T04:00:00.000Z"},
+{"id":"a0b8e760e2f015b53fb85a31cf6876a8","sport_key":"basketball_nbl","sport_title":"NBL","group":"Basketball","home_team":"Cairns Taipans","away_team":"Perth Wildcats","title":"Cairns Taipans vs Perth Wildcats","commence_time":"2026-11-20T08:36:00.000Z"},
+{"id":"019b1e1bf49fb99e1f33da3cec173483","sport_key":"icehockey_liiga","sport_title":"Liiga","group":"Ice Hockey","home_team":"KooKoo","away_team":"Kärpät","title":"KooKoo vs Kärpät","commence_time":"2026-11-20T16:00:00.000Z"},
+{"id":"02eef179fe638f6b58a989aeea9f88bb","sport_key":"icehockey_liiga","sport_title":"Liiga","group":"Ice Hockey","home_team":"JYP","away_team":"HIFK","title":"JYP vs HIFK","commence_time":"2026-11-20T16:30:00.000Z"},
+{"id":"0ebaa3d45d20245af5abec0f319e005a","sport_key":"icehockey_liiga","sport_title":"Liiga","group":"Ice Hockey","home_team":"HPK","away_team":"Jokerit","title":"HPK vs Jokerit","commence_time":"2026-11-20T16:30:00.000Z"},
+{"id":"d56d4d54ecf467bcd3346c7ef6e084ca","sport_key":"icehockey_liiga","sport_title":"Liiga","group":"Ice Hockey","home_team":"Pelicans","away_team":"Lukko","title":"Pelicans vs Lukko","commence_time":"2026-11-20T16:30:00.000Z"},
+{"id":"55092bbd02ab7db7d9a0ea151bc3a9bb","sport_key":"icehockey_liiga","sport_title":"Liiga","group":"Ice Hockey","home_team":"SaiPa","away_team":"TPS","title":"SaiPa vs TPS","commence_time":"2026-11-20T16:30:00.000Z"},
+{"id":"1a5b5e46f5c64363a212730f36e943e0","sport_key":"basketball_euroleague","sport_title":"Basketball Euroleague","group":"Basketball","home_team":"Anadolu Efes","away_team":"ASVEL Lyon Villeurbanne","title":"Anadolu Efes vs ASVEL Lyon Villeurbanne","commence_time":"2026-11-20T17:30:00.000Z"},
+{"id":"054a47e5eb9965afee00caa6fb4a448c","sport_key":"icehockey_liiga","sport_title":"Liiga","group":"Ice Hockey","home_team":"Ilves","away_team":"Tappara","title":"Ilves vs Tappara","commence_time":"2026-11-20T17:30:00.000Z"},
+{"id":"ef781f0860aada044d19e475791ba835","sport_key":"soccer_germany_bundesliga2","sport_title":"Bundesliga 2 - Germany","group":"Soccer","home_team":"SV Darmstadt 98","away_team":"1. FC Heidenheim","title":"SV Darmstadt 98 vs 1. FC Heidenheim","commence_time":"2026-11-20T17:30:00.000Z"},
+{"id":"f742b5c50da25075d7f354d08e83dfa4","sport_key":"soccer_germany_bundesliga2","sport_title":"Bundesliga 2 - Germany","group":"Soccer","home_team":"Arminia Bielefeld","away_team":"1. FC Magdeburg","title":"Arminia Bielefeld vs 1. FC Magdeburg","commence_time":"2026-11-20T17:30:00.000Z"},
+{"id":"4b01ab5b0f5c1709a8cf135c80ed0386","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Willy Gilheaney","away_team":"Alberto Ignacio Palmetta","title":"Willy Gilheaney vs Alberto Ignacio Palmetta","commence_time":"2026-11-20T19:00:00.000Z"},
+{"id":"b9e7c3066f4c22b555b3ceef964c0e9c","sport_key":"basketball_euroleague","sport_title":"Basketball Euroleague","group":"Basketball","home_team":"Olympiacos","away_team":"Real Madrid","title":"Olympiacos vs Real Madrid","commence_time":"2026-11-20T19:15:00.000Z"},
+{"id":"55491171f930de0bcb5382613ad27746","sport_key":"basketball_euroleague","sport_title":"Basketball Euroleague","group":"Basketball","home_team":"FC Barcelona Bàsquet","away_team":"KK Crvena zvezda","title":"FC Barcelona Bàsquet vs KK Crvena zvezda","commence_time":"2026-11-20T19:30:00.000Z"},
+{"id":"4036e139e287445bad9b5705a7edfe7c","sport_key":"basketball_euroleague","sport_title":"Basketball Euroleague","group":"Basketball","home_team":"KK Partizan NIS","away_team":"Beşiktaş J.K.","title":"KK Partizan NIS vs Beşiktaş J.K.","commence_time":"2026-11-20T19:45:00.000Z"},
+{"id":"f33c91844ee2ddb59ea367b52e27380b","sport_key":"soccer_belgium_first_div","sport_title":"Belgium First Div","group":"Soccer","home_team":"Cercle Brugge KSV","away_team":"Westerlo","title":"Cercle Brugge KSV vs Westerlo","commence_time":"2026-11-20T19:45:00.000Z"},
+{"id":"5a536ccef9df3900d7fe7fa0ee63623a","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Lauren Price","away_team":"Michaela Kotaskova","title":"Lauren Price vs Michaela Kotaskova","commence_time":"2026-11-20T21:00:00.000Z"},
+{"id":"1985219fd04a6f3079d6d5e5abb82ded","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Rhys Edwards","away_team":"Lee McGregor","title":"Rhys Edwards vs Lee McGregor","commence_time":"2026-11-20T21:00:00.000Z"},
+{"id":"348d3807dfe3e279c98a4a3ca46e48ec","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"David Lopez","away_team":"Alan Crisosto","title":"David Lopez vs Alan Crisosto","commence_time":"2026-11-20T22:00:00.000Z"},
+{"id":"b7561a780975dbd0df80705397f0b2ec","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Amir Anderson","away_team":"Daniel Buciuc","title":"Amir Anderson vs Daniel Buciuc","commence_time":"2026-11-20T22:00:00.000Z"},
+{"id":"bae624083238cf391d6d154889a533a5","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Cayden Griffiths","away_team":"Jean Rivera-Pacheco","title":"Cayden Griffiths vs Jean Rivera-Pacheco","commence_time":"2026-11-20T22:00:00.000Z"},
+{"id":"f0ca9293de19eee7d8779e4f6320f24a","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Leonardo Sanchez","away_team":"Victor Morales Jr","title":"Leonardo Sanchez vs Victor Morales Jr","commence_time":"2026-11-20T22:00:00.000Z"},
+{"id":"c62889a44c822eaf71b9cd24f4eee875","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"UCF Knights","away_team":"Iowa State Cyclones","title":"UCF Knights vs Iowa State Cyclones","commence_time":"2026-11-20T23:00:00.000Z"},
+{"id":"a365d6d7dcd55eca42de4791543e3f80","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Toledo Rockets","away_team":"Bowling Green Falcons","title":"Toledo Rockets vs Bowling Green Falcons","commence_time":"2026-11-21T00:30:00.000Z"},
+{"id":"f247efd606eabe7d3d87504bc3af43b4","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Duke Blue Devils","away_team":"Clemson Tigers","title":"Duke Blue Devils vs Clemson Tigers","commence_time":"2026-11-21T00:30:00.000Z"},
+{"id":"9cf7e21a18746ad426fd1d901bdd0a88","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Air Force Falcons","away_team":"UTEP Miners","title":"Air Force Falcons vs UTEP Miners","commence_time":"2026-11-21T01:00:00.000Z"},
+{"id":"59cb6c9beeb879b864784348e3803ff8","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Michigan State Spartans","away_team":"Oregon Ducks","title":"Michigan State Spartans vs Oregon Ducks","commence_time":"2026-11-21T01:00:00.000Z"},
+{"id":"e497245c3311ac853201a67404dc82ea","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Wyoming Cowboys","away_team":"New Mexico Lobos","title":"Wyoming Cowboys vs New Mexico Lobos","commence_time":"2026-11-21T02:00:00.000Z"},
+{"id":"c7f3431103e19337cb64274e425b8df7","sport_key":"aussierules_aflw","sport_title":"AFL Women's","group":"Aussie Rules","home_team":"North Melbourne Kangaroos","away_team":"Sydney Swans","title":"North Melbourne Kangaroos vs Sydney Swans","commence_time":"2026-11-21T02:05:00.000Z"},
+{"id":"d673e82db285a33cdb6d29de5067ec50","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Gabriela Fundora","away_team":"Jasmina Zapotoczna","title":"Gabriela Fundora vs Jasmina Zapotoczna","commence_time":"2026-11-21T03:00:00.000Z"},
+{"id":"4f75149304d6bc15cfe462258488241c","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Amari Jones","away_team":"Deaundre Pettus","title":"Amari Jones vs Deaundre Pettus","commence_time":"2026-11-21T04:00:00.000Z"},
+{"id":"ee73510df12e58aab9d632eb37550d4a","sport_key":"aussierules_aflw","sport_title":"AFL Women's","group":"Aussie Rules","home_team":"Melbourne Demons","away_team":"Carlton Blues","title":"Melbourne Demons vs Carlton Blues","commence_time":"2026-11-21T05:05:00.000Z"},
+{"id":"3de652d2815550e88c9e775f6036a771","sport_key":"basketball_nbl","sport_title":"NBL","group":"Basketball","home_team":"Melbourne United","away_team":"New Zealand Breakers","title":"Melbourne United vs New Zealand Breakers","commence_time":"2026-11-21T08:36:00.000Z"},
+{"id":"bc405017f004bace7b944216134e1660","sport_key":"soccer_turkey_super_league","sport_title":"Turkey Super League","group":"Soccer","home_team":"Genclerbirligi SK","away_team":"Gazişehir Gaziantep","title":"Genclerbirligi SK vs Gazişehir Gaziantep","commence_time":"2026-11-21T10:30:00.000Z"},
+{"id":"23c0b7e8f43a4ebefb3b1ca59b1823dc","sport_key":"icehockey_liiga","sport_title":"Liiga","group":"Ice Hockey","home_team":"Kiekko-Espoo","away_team":"Ässät","title":"Kiekko-Espoo vs Ässät","commence_time":"2026-11-21T12:00:00.000Z"},
+{"id":"d86ecaee759e888a3ecd2e72e734d14f","sport_key":"soccer_germany_bundesliga2","sport_title":"Bundesliga 2 - Germany","group":"Soccer","home_team":"1. FC Nürnberg","away_team":"Eintracht Braunschweig","title":"1. FC Nürnberg vs Eintracht Braunschweig","commence_time":"2026-11-21T12:00:00.000Z"},
+{"id":"3885e90049f2430c338ff29a68c0bb47","sport_key":"soccer_germany_bundesliga2","sport_title":"Bundesliga 2 - Germany","group":"Soccer","home_team":"Hannover 96","away_team":"Greuther Fürth","title":"Hannover 96 vs Greuther Fürth","commence_time":"2026-11-21T12:00:00.000Z"},
+{"id":"1019c0b1ba87577a71ca1b80838205b5","sport_key":"soccer_germany_bundesliga2","sport_title":"Bundesliga 2 - Germany","group":"Soccer","home_team":"VfL Wolfsburg","away_team":"Holstein Kiel","title":"VfL Wolfsburg vs Holstein Kiel","commence_time":"2026-11-21T12:00:00.000Z"},
+{"id":"2b342de9e162348410f74cd7a2c970cd","sport_key":"soccer_turkey_super_league","sport_title":"Turkey Super League","group":"Soccer","home_team":"Amed SK","away_team":"Çaykur Rizespor","title":"Amed SK vs Çaykur Rizespor","commence_time":"2026-11-21T13:00:00.000Z"},
+{"id":"acdf116ff7e38fd5643038ad39e76964","sport_key":"soccer_turkey_super_league","sport_title":"Turkey Super League","group":"Soccer","home_team":"Galatasaray","away_team":"Samsunspor","title":"Galatasaray vs Samsunspor","commence_time":"2026-11-21T13:00:00.000Z"},
+{"id":"9e8d72c6c27c1667be7b88416a36ca80","sport_key":"soccer_italy_serie_a","sport_title":"Serie A - Italy","group":"Soccer","home_team":"Como","away_team":"Cagliari","title":"Como vs Cagliari","commence_time":"2026-11-21T14:00:00.000Z"},
+{"id":"bf921a2780e2a25201da8a3bfece84c4","sport_key":"soccer_italy_serie_a","sport_title":"Serie A - Italy","group":"Soccer","home_team":"Lazio","away_team":"Lecce","title":"Lazio vs Lecce","commence_time":"2026-11-21T14:00:00.000Z"},
+{"id":"a7c35a9c11e298455feebbf60a433f1c","sport_key":"soccer_belgium_first_div","sport_title":"Belgium First Div","group":"Soccer","home_team":"Charleroi","away_team":"Sint Truiden","title":"Charleroi vs Sint Truiden","commence_time":"2026-11-21T15:00:00.000Z"},
+{"id":"49cb48a9c205920205e9b82f6dd672c6","sport_key":"soccer_turkey_super_league","sport_title":"Turkey Super League","group":"Soccer","home_team":"Kocaelispor","away_team":"Fenerbahce","title":"Kocaelispor vs Fenerbahce","commence_time":"2026-11-21T16:00:00.000Z"},
+{"id":"4336f3fcf7e287f1609c1822fef8f63d","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Army Black Knights","away_team":"East Carolina Pirates","title":"Army Black Knights vs East Carolina Pirates","commence_time":"2026-11-21T17:00:00.000Z"},
+{"id":"606426f36cb32d1843f6abbe6f683b76","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Kansas Jayhawks","away_team":"BYU Cougars","title":"Kansas Jayhawks vs BYU Cougars","commence_time":"2026-11-21T17:00:00.000Z"},
+{"id":"561b0188c024ce49bdd77391f44dc605","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Boston College Eagles","away_team":"Syracuse Orange","title":"Boston College Eagles vs Syracuse Orange","commence_time":"2026-11-21T17:00:00.000Z"},
+{"id":"01aaf98c4f62bba0a964a9b400666516","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Cincinnati Bearcats","away_team":"Colorado Buffaloes","title":"Cincinnati Bearcats vs Colorado Buffaloes","commence_time":"2026-11-21T17:00:00.000Z"},
+{"id":"8e40a0e75da5dc1e30817debee95239d","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Florida Gators","away_team":"Vanderbilt Commodores","title":"Florida Gators vs Vanderbilt Commodores","commence_time":"2026-11-21T17:00:00.000Z"},
+{"id":"ffbcf81433c3067468208b6d5b91aa83","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Georgia Tech Yellow Jackets","away_team":"Wake Forest Demon Deacons","title":"Georgia Tech Yellow Jackets vs Wake Forest Demon Deacons","commence_time":"2026-11-21T17:00:00.000Z"},
+{"id":"af2b2232df20a470d516dbe474a63132","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Navy Midshipmen","away_team":"Memphis Tigers","title":"Navy Midshipmen vs Memphis Tigers","commence_time":"2026-11-21T17:00:00.000Z"},
+{"id":"ce564e264da03668e25badeb960753cc","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Minnesota Golden Gophers","away_team":"Northwestern Wildcats","title":"Minnesota Golden Gophers vs Northwestern Wildcats","commence_time":"2026-11-21T17:00:00.000Z"},
+{"id":"03a07ec7a62fbc2d6bf4748aafd30303","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Nebraska Cornhuskers","away_team":"Ohio State Buckeyes","title":"Nebraska Cornhuskers vs Ohio State Buckeyes","commence_time":"2026-11-21T17:00:00.000Z"},
+{"id":"b40838a45d9aeb25fb42668402caae13","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Tulane Green Wave","away_team":"North Texas Mean Green","title":"Tulane Green Wave vs North Texas Mean Green","commence_time":"2026-11-21T17:00:00.000Z"},
+{"id":"79d5d7992b8c0600feda74e2225553fe","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Ole Miss Rebels","away_team":"Wofford Terriers","title":"Ole Miss Rebels vs Wofford Terriers","commence_time":"2026-11-21T17:00:00.000Z"},
+{"id":"d0761a1e0c66eaf4608f5c61ac79b3c2","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Purdue Boilermakers","away_team":"Wisconsin Badgers","title":"Purdue Boilermakers vs Wisconsin Badgers","commence_time":"2026-11-21T17:00:00.000Z"},
+{"id":"cb513fd9869c9aa6ce506bb499bcd48b","sport_key":"soccer_italy_serie_a","sport_title":"Serie A - Italy","group":"Soccer","home_team":"Parma","away_team":"AS Roma","title":"Parma vs AS Roma","commence_time":"2026-11-21T17:00:00.000Z"},
+{"id":"0248ebbc1e5d750081d91cf4148b5776","sport_key":"soccer_switzerland_superleague","sport_title":"Swiss Superleague","group":"Soccer","home_team":"BSC Young Boys","away_team":"FC Thun","title":"BSC Young Boys vs FC Thun","commence_time":"2026-11-21T17:00:00.000Z"},
+{"id":"16118fac0e7f193a916aac957dadd4b3","sport_key":"soccer_switzerland_superleague","sport_title":"Swiss Superleague","group":"Soccer","home_team":"FC Lugano","away_team":"Grasshopper Zürich","title":"FC Lugano vs Grasshopper Zürich","commence_time":"2026-11-21T17:00:00.000Z"},
+{"id":"745b2c0a6f387c07733cdb0dc59463f9","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"North Carolina A&T Aggies","away_team":"Albany","title":"North Carolina A&T Aggies vs Albany","commence_time":"2026-11-21T17:01:00.000Z"},
+{"id":"f7470467de5c027bafeaaf8dc1a3f687","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Central Connecticut Blue Devils","away_team":"Duquesne Dukes","title":"Central Connecticut Blue Devils vs Duquesne Dukes","commence_time":"2026-11-21T17:01:00.000Z"},
+{"id":"5247470d442ccdebb93af332adc93792","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Columbia Lions","away_team":"Cornell Big Red","title":"Columbia Lions vs Cornell Big Red","commence_time":"2026-11-21T17:01:00.000Z"},
+{"id":"731f12645c8447bfcb16046c7cd3e52d","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Holy Cross Crusaders","away_team":"Fordham Rams","title":"Holy Cross Crusaders vs Fordham Rams","commence_time":"2026-11-21T17:01:00.000Z"},
+{"id":"4bceb8ed77e455a73a7359e8f3858a6b","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"VMI Keydets","away_team":"Furman Paladins","title":"VMI Keydets vs Furman Paladins","commence_time":"2026-11-21T17:01:00.000Z"},
+{"id":"c207b9a33216947e61fd464a02077335","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Stony Brook Seawolves","away_team":"Hampton Pirates","title":"Stony Brook Seawolves vs Hampton Pirates","commence_time":"2026-11-21T17:01:00.000Z"},
+{"id":"1c709c4e4a19aef36e3b88561d2414ff","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Norfolk State Spartans","away_team":"Howard Bison","title":"Norfolk State Spartans vs Howard Bison","commence_time":"2026-11-21T17:01:00.000Z"},
+{"id":"062a1620cf5389a0686b2621d61b5208","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Robert Morris Colonials","away_team":"LIU Sharks","title":"Robert Morris Colonials vs LIU Sharks","commence_time":"2026-11-21T17:01:00.000Z"},
+{"id":"60d0a0e4236a30013eb76e1cce97c02c","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Mercyhurst Lakers","away_team":"New Haven Chargers","title":"Mercyhurst Lakers vs New Haven Chargers","commence_time":"2026-11-21T17:01:00.000Z"},
+{"id":"a34fc43713b6a583ccdae0477de17933","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Merrimack Warriors","away_team":"Sacred Heart Pioneers","title":"Merrimack Warriors vs Sacred Heart Pioneers","commence_time":"2026-11-21T17:01:00.000Z"},
+{"id":"9cb1ce5821e3e507e33e735637b2718f","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Richmond Spiders","away_team":"William and Mary Tribe","title":"Richmond Spiders vs William and Mary Tribe","commence_time":"2026-11-21T17:01:00.000Z"},
+{"id":"52e64207343a7f4f0366de0d122b5523","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Stonehill Skyhawks","away_team":"Wagner Seahawks","title":"Stonehill Skyhawks vs Wagner Seahawks","commence_time":"2026-11-21T17:01:00.000Z"},
+{"id":"fcf2f0c9fa80b34941305ac311e59cdc","sport_key":"soccer_belgium_first_div","sport_title":"Belgium First Div","group":"Soccer","home_team":"Genk","away_team":"RAAL La Louvière","title":"Genk vs RAAL La Louvière","commence_time":"2026-11-21T17:15:00.000Z"},
+{"id":"1f59b6d72003ce254b32c815e73b252d","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Virginia Cavaliers","away_team":"North Carolina Tar Heels","title":"Virginia Cavaliers vs North Carolina Tar Heels","commence_time":"2026-11-21T17:30:00.000Z"},
+{"id":"df1503089fa0561c7d9cd171ee186a48","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Lafayette Leopards","away_team":"Lehigh Mountain Hawks","title":"Lafayette Leopards vs Lehigh Mountain Hawks","commence_time":"2026-11-21T17:31:00.000Z"},
+{"id":"329bbea44b2c7efcbb9243e25099495e","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"West Virginia Mountaineers","away_team":"Houston Cougars","title":"West Virginia Mountaineers vs Houston Cougars","commence_time":"2026-11-21T18:00:00.000Z"},
+{"id":"75136fdcc4601e9e1208fe20146056dc","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Liberty Flames","away_team":"Western Kentucky Hilltoppers","title":"Liberty Flames vs Western Kentucky Hilltoppers","commence_time":"2026-11-21T18:00:00.000Z"},
+{"id":"e4bb95111547a00a8c70a0459ffbd861","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Mississippi State Bulldogs","away_team":"Tennessee Tech Golden Eagles","title":"Mississippi State Bulldogs vs Tennessee Tech Golden Eagles","commence_time":"2026-11-21T18:00:00.000Z"},
+{"id":"833ced5a0aa3158174cc3879b1401ded","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Dartmouth Big Green","away_team":"Brown Bears","title":"Dartmouth Big Green vs Brown Bears","commence_time":"2026-11-21T18:01:00.000Z"},
+{"id":"62bc3c7a46af164b9e107522de2b7681","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Bryant Bulldogs","away_team":"Rhode Island Rams","title":"Bryant Bulldogs vs Rhode Island Rams","commence_time":"2026-11-21T18:01:00.000Z"},
+{"id":"3824f501a81936619701f7d296ad63ad","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Bucknell Bison","away_team":"Colgate Raiders","title":"Bucknell Bison vs Colgate Raiders","commence_time":"2026-11-21T18:01:00.000Z"},
+{"id":"4a6fd931b07d7092ef1dbd6b672221d0","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Butler Bulldogs","away_team":"Morehead State Eagles","title":"Butler Bulldogs vs Morehead State Eagles","commence_time":"2026-11-21T18:01:00.000Z"},
+{"id":"8853c3743f31c3ef124e5c94fdc800b5","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Eastern Illinois Panthers","away_team":"Charleston Southern Buccaneers","title":"Eastern Illinois Panthers vs Charleston Southern Buccaneers","commence_time":"2026-11-21T18:01:00.000Z"},
+{"id":"d666546de14d2812ae489194a8b01026","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Western Carolina Catamounts","away_team":"Citadel Bulldogs","title":"Western Carolina Catamounts vs Citadel Bulldogs","commence_time":"2026-11-21T18:01:00.000Z"},
+{"id":"80aaa3f5c47b72e29cb123822acfdca5","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Davidson Wildcats","away_team":"Marist Red Foxes","title":"Davidson Wildcats vs Marist Red Foxes","commence_time":"2026-11-21T18:01:00.000Z"},
+{"id":"cf18348fe58a4dd3e55268a1109ad533","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Presbyterian College Blue Hose","away_team":"Dayton Flyers","title":"Presbyterian College Blue Hose vs Dayton Flyers","commence_time":"2026-11-21T18:01:00.000Z"},
+{"id":"06849886e1ec15e2142fc1b718581223","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Towson Tigers","away_team":"Elon Phoenix","title":"Towson Tigers vs Elon Phoenix","commence_time":"2026-11-21T18:01:00.000Z"},
+{"id":"ba1c90f192be07ed4af7ee7389755ada","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Villanova Wildcats","away_team":"Georgetown Hoyas","title":"Villanova Wildcats vs Georgetown Hoyas","commence_time":"2026-11-21T18:01:00.000Z"},
+{"id":"a69bde00a3d00387dab5512b307fc06b","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Illinois State Redbirds","away_team":"South Dakota Coyotes","title":"Illinois State Redbirds vs South Dakota Coyotes","commence_time":"2026-11-21T18:01:00.000Z"},
+{"id":"fa3211795d0a862ba6ec845453ee8427","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Maine Black Bears","away_team":"New Hampshire Wildcats","title":"Maine Black Bears vs New Hampshire Wildcats","commence_time":"2026-11-21T18:01:00.000Z"},
+{"id":"4015969d31c9dae92e280ff68a909507","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"South Carolina State Bulldogs","away_team":"Delaware State Hornets","title":"South Carolina State Bulldogs vs Delaware State Hornets","commence_time":"2026-11-21T18:31:00.000Z"},
+{"id":"26a73c73859bed4a78613ad9b8b9fc05","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Gardner-Webb Runnin Bulldogs","away_team":"Tennessee State Tigers","title":"Gardner-Webb Runnin Bulldogs vs Tennessee State Tigers","commence_time":"2026-11-21T18:31:00.000Z"},
+{"id":"f45e59db6a335d4ffd3741f83a45327a","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Alabama Crimson Tide","away_team":"Chattanooga Mocs","title":"Alabama Crimson Tide vs Chattanooga Mocs","commence_time":"2026-11-21T19:00:00.000Z"},
+{"id":"ba44f7b0a5535ae2369e8ea165fb287f","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Tulsa Golden Hurricane","away_team":"Charlotte 49ers","title":"Tulsa Golden Hurricane vs Charlotte 49ers","commence_time":"2026-11-21T19:00:00.000Z"},
+{"id":"d7b3c2454c6b34f734497049e744bab0","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Jacksonville State Gamecocks","away_team":"Missouri State Bears","title":"Jacksonville State Gamecocks vs Missouri State Bears","commence_time":"2026-11-21T19:00:00.000Z"},
+{"id":"347054d00e6c0020484eb64f1ad1b58d","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Sam Houston State Bearkats","away_team":"Middle Tennessee Blue Raiders","title":"Sam Houston State Bearkats vs Middle Tennessee Blue Raiders","commence_time":"2026-11-21T19:00:00.000Z"},
+{"id":"839430e7a8631df46d4e44b45ebdbe1a","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Abilene Christian Wildcats","away_team":"Eastern Kentucky Colonels","title":"Abilene Christian Wildcats vs Eastern Kentucky Colonels","commence_time":"2026-11-21T19:01:00.000Z"},
+{"id":"0c5fe66a8bdcbbf573db916c37e0b8fb","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Montana State Bobcats","away_team":"Montana Grizzlies","title":"Montana State Bobcats vs Montana Grizzlies","commence_time":"2026-11-21T19:01:00.000Z"},
+{"id":"98069383eb033edfdd4c6142ca49d38c","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"North Carolina Central Eagles","away_team":"Morgan State Bears","title":"North Carolina Central Eagles vs Morgan State Bears","commence_time":"2026-11-21T19:01:00.000Z"},
+{"id":"60abd3c2dcedb0755f3fa3e8c05b8927","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Murray State Racers","away_team":"Northern Iowa Panthers","title":"Murray State Racers vs Northern Iowa Panthers","commence_time":"2026-11-21T19:01:00.000Z"},
+{"id":"0698e1ac8fd1b84e21db8f1d69ebe1df","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"North Dakota Fighting Hawks","away_team":"Southern Illinois Salukis","title":"North Dakota Fighting Hawks vs Southern Illinois Salukis","commence_time":"2026-11-21T19:01:00.000Z"},
+{"id":"6fc2c6ce073778cafbc3384671360817","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Southeast Missouri State Redhawks","away_team":"UT Martin Skyhawks","title":"Southeast Missouri State Redhawks vs UT Martin Skyhawks","commence_time":"2026-11-21T19:01:00.000Z"},
+{"id":"ce71c4eca7b66071d05f39eb65644c47","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Valparaiso Beacons","away_team":"St. Thomas (MN) Tommies","title":"Valparaiso Beacons vs St. Thomas (MN) Tommies","commence_time":"2026-11-21T19:01:00.000Z"},
+{"id":"f6800cbd065533a3ae2364b4cf714d1a","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"West Georgia Wolves","away_team":"West Florida Argonauts","title":"West Georgia Wolves vs West Florida Argonauts","commence_time":"2026-11-21T19:01:00.000Z"},
+{"id":"bd9d4f32b0b91c0140a3dd9574f8ae13","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Appalachian State Mountaineers","away_team":"UL Monroe Warhawks","title":"Appalachian State Mountaineers vs UL Monroe Warhawks","commence_time":"2026-11-21T19:30:00.000Z"},
+{"id":"3099e24c0ab2767eb9c56f6ef5eeefc2","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Florida Atlantic Owls","away_team":"South Florida Bulls","title":"Florida Atlantic Owls vs South Florida Bulls","commence_time":"2026-11-21T19:30:00.000Z"},
+{"id":"725c6205de38f91b507a880c139eda54","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Illinois Fighting Illini","away_team":"Iowa Hawkeyes","title":"Illinois Fighting Illini vs Iowa Hawkeyes","commence_time":"2026-11-21T19:30:00.000Z"},
+{"id":"65c5849bfaa93710e190b460c40207a2","sport_key":"soccer_germany_bundesliga2","sport_title":"Bundesliga 2 - Germany","group":"Soccer","home_team":"FC St. Pauli","away_team":"VfL Bochum","title":"FC St. Pauli vs VfL Bochum","commence_time":"2026-11-21T19:30:00.000Z"},
+{"id":"50b42ea09e5874904c00b924902a0503","sport_key":"soccer_switzerland_superleague","sport_title":"Swiss Superleague","group":"Soccer","home_team":"FC Sion","away_team":"Servette","title":"FC Sion vs Servette","commence_time":"2026-11-21T19:30:00.000Z"},
+{"id":"25910d9a01889c6534ef099b63823c5e","sport_key":"soccer_belgium_first_div","sport_title":"Belgium First Div","group":"Soccer","home_team":"KV Mechelen","away_team":"Club Brugge","title":"KV Mechelen vs Club Brugge","commence_time":"2026-11-21T19:45:00.000Z"},
+{"id":"2816b19dccf28767830d9dd57ece3cac","sport_key":"soccer_belgium_first_div","sport_title":"Belgium First Div","group":"Soccer","home_team":"SV Zulte-Waregem","away_team":"Royal Antwerp","title":"SV Zulte-Waregem vs Royal Antwerp","commence_time":"2026-11-21T19:45:00.000Z"},
+{"id":"e59809eb38340e3bca323cef070dfd34","sport_key":"soccer_italy_serie_a","sport_title":"Serie A - Italy","group":"Soccer","home_team":"Napoli","away_team":"Torino","title":"Napoli vs Torino","commence_time":"2026-11-21T19:45:00.000Z"},
+{"id":"2851a39f971851008dbec9970da34737","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Louisiana Ragin Cajuns","away_team":"Coastal Carolina Chanticleers","title":"Louisiana Ragin Cajuns vs Coastal Carolina Chanticleers","commence_time":"2026-11-21T20:00:00.000Z"},
+{"id":"96d5698a996feb547e098ba4b2178c0c","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"New Mexico State Aggies","away_team":"Delaware Blue Hens","title":"New Mexico State Aggies vs Delaware Blue Hens","commence_time":"2026-11-21T20:00:00.000Z"},
+{"id":"b3f08ccb712c2c765cc2d55b4608a3dd","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Kennesaw State Owls","away_team":"Florida International Panthers","title":"Kennesaw State Owls vs Florida International Panthers","commence_time":"2026-11-21T20:00:00.000Z"},
+{"id":"3f4633b40ed5eca80aa67f5c2538b7a7","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Mississippi Valley State Delta Devils","away_team":"Alabama A&M Bulldogs","title":"Mississippi Valley State Delta Devils vs Alabama A&M Bulldogs","commence_time":"2026-11-21T20:01:00.000Z"},
+{"id":"34d8f21476334916628a0196dba977dd","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Alabama State Hornets","away_team":"Prairie View A&M Panthers","title":"Alabama State Hornets vs Prairie View A&M Panthers","commence_time":"2026-11-21T20:01:00.000Z"},
+{"id":"1d794c8016b79c2d573d6f061d4b6463","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Alcorn State Braves","away_team":"Jackson State Tigers","title":"Alcorn State Braves vs Jackson State Tigers","commence_time":"2026-11-21T20:01:00.000Z"},
+{"id":"62fa8d71f24d8f01ccfffb276c216d46","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Mercer Bears","away_team":"East Tennessee State Buccaneers","title":"Mercer Bears vs East Tennessee State Buccaneers","commence_time":"2026-11-21T20:01:00.000Z"},
+{"id":"ae9ed26bb2b46e276a42a97db8952acc","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"South Dakota State Jackrabbits","away_team":"Indiana State Sycamores","title":"South Dakota State Jackrabbits vs Indiana State Sycamores","commence_time":"2026-11-21T20:01:00.000Z"},
+{"id":"1a814dbbfdc3569e843e3a7efc532fac","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Lindenwood Lions","away_team":"Western Illinois Leathernecks","title":"Lindenwood Lions vs Western Illinois Leathernecks","commence_time":"2026-11-21T20:01:00.000Z"},
+{"id":"94626e4b1c4762403c22ee2a774cc563","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Weber State Wildcats","away_team":"Utah Tech Trailblazers","title":"Weber State Wildcats vs Utah Tech Trailblazers","commence_time":"2026-11-21T20:01:00.000Z"},
+{"id":"c3b7f980521e9fb576ce8dbd49a9f7de","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Texas Longhorns","away_team":"Arkansas Razorbacks","title":"Texas Longhorns vs Arkansas Razorbacks","commence_time":"2026-11-21T20:30:00.000Z"},
+{"id":"89cbfaa2179c40fb894d2460061bce34","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Auburn Tigers","away_team":"Samford Bulldogs","title":"Auburn Tigers vs Samford Bulldogs","commence_time":"2026-11-21T20:30:00.000Z"},
+{"id":"1a3e1206e330ec66aa9a0549b4d3409c","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Baylor Bears","away_team":"Texas Tech Red Raiders","title":"Baylor Bears vs Texas Tech Red Raiders","commence_time":"2026-11-21T20:30:00.000Z"},
+{"id":"7f9809c817e27ec2d9f8a24e8e19a8ff","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Florida State Seminoles","away_team":"NC State Wolfpack","title":"Florida State Seminoles vs NC State Wolfpack","commence_time":"2026-11-21T20:30:00.000Z"},
+{"id":"6b40f07e146bab0dba574f0d3b07659e","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Washington Huskies","away_team":"Indiana Hoosiers","title":"Washington Huskies vs Indiana Hoosiers","commence_time":"2026-11-21T20:30:00.000Z"},
+{"id":"0cdac6d2b6c2cbfb0f734a8cdfbe086e","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Tennessee Volunteers","away_team":"LSU Tigers","title":"Tennessee Volunteers vs LSU Tigers","commence_time":"2026-11-21T20:30:00.000Z"},
+{"id":"ae9b81f4814e1d9dae835a13f4245ce3","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Michigan Wolverines","away_team":"UCLA Bruins","title":"Michigan Wolverines vs UCLA Bruins","commence_time":"2026-11-21T20:30:00.000Z"},
+{"id":"59e78be3159c6fdb928c6737f6ff68e4","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"UConn Huskies","away_team":"Old Dominion Monarchs","title":"UConn Huskies vs Old Dominion Monarchs","commence_time":"2026-11-21T20:30:00.000Z"},
+{"id":"3a5bb507e8305c5de6aa0b6c1e43e638","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Penn State Nittany Lions","away_team":"Rutgers Scarlet Knights","title":"Penn State Nittany Lions vs Rutgers Scarlet Knights","commence_time":"2026-11-21T20:30:00.000Z"},
+{"id":"6d6d2c1a09aee852aa02b9f380f45c14","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Bethune-Cookman Wildcats","away_team":"Florida A&M Rattlers","title":"Bethune-Cookman Wildcats vs Florida A&M Rattlers","commence_time":"2026-11-21T20:31:00.000Z"},
+{"id":"ca98b3fdafcf50149587445eafa71d8c","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Harvard Crimson","away_team":"Yale University Bulldogs","title":"Harvard Crimson vs Yale University Bulldogs","commence_time":"2026-11-21T20:31:00.000Z"},
+{"id":"5c082e013b5328e3db1def552628765f","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Oklahoma Sooners","away_team":"Texas A&M Aggies","title":"Oklahoma Sooners vs Texas A&M Aggies","commence_time":"2026-11-21T20:45:00.000Z"},
+{"id":"0a1a6c2630e51e32d24695f02c0b3f23","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Troy Trojans","away_team":"Georgia Southern Eagles","title":"Troy Trojans vs Georgia Southern Eagles","commence_time":"2026-11-21T21:00:00.000Z"},
+{"id":"e17410526acddf2500fb788f40901b3f","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Marshall Thundering Herd","away_team":"Georgia State Panthers","title":"Marshall Thundering Herd vs Georgia State Panthers","commence_time":"2026-11-21T21:00:00.000Z"},
+{"id":"cc2b1d4b7378697dc11c744aeb015af9","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"North Dakota State Bison","away_team":"Northern Illinois Huskies","title":"North Dakota State Bison vs Northern Illinois Huskies","commence_time":"2026-11-21T21:00:00.000Z"},
+{"id":"6d977752327ee29e19d3e1856683efee","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Southern Mississippi Golden Eagles","away_team":"South Alabama Jaguars","title":"Southern Mississippi Golden Eagles vs South Alabama Jaguars","commence_time":"2026-11-21T21:00:00.000Z"},
+{"id":"86110dea0d7c8cf8714eba3878431eb1","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Texas Southern Tigers","away_team":"Arkansas Pine Bluff Golden Lions","title":"Texas Southern Tigers vs Arkansas Pine Bluff Golden Lions","commence_time":"2026-11-21T21:01:00.000Z"},
+{"id":"95ce7539cd64f0c814d485c98e4dc1b2","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"UC Davis Aggies","away_team":"Cal Poly Mustangs","title":"UC Davis Aggies vs Cal Poly Mustangs","commence_time":"2026-11-21T21:01:00.000Z"},
+{"id":"10ba4bd27d0181bc68aa29cdf9a0a6d1","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"East Texas A&M Lions","away_team":"Incarnate Word Cardinals","title":"East Texas A&M Lions vs Incarnate Word Cardinals","commence_time":"2026-11-21T21:01:00.000Z"},
+{"id":"ce70e11a922ed1d4fbbc29c3c073960d","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Eastern Washington Eagles","away_team":"Portland State Vikings","title":"Eastern Washington Eagles vs Portland State Vikings","commence_time":"2026-11-21T21:01:00.000Z"},
+{"id":"c453290de0280a188fa35c7446f4f7d8","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"North Alabama Lions","away_team":"Tarleton State Texans","title":"North Alabama Lions vs Tarleton State Texans","commence_time":"2026-11-21T21:01:00.000Z"},
+{"id":"21284d6ecca82e4f80c5db8b3ef21732","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Northern Arizona Lumberjacks","away_team":"Northern Colorado Bears","title":"Northern Arizona Lumberjacks vs Northern Colorado Bears","commence_time":"2026-11-21T21:01:00.000Z"},
+{"id":"f4880f2ae71c7cb3f019edb5e8d59aaf","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Central Arkansas Bears","away_team":"Austin Peay Governors","title":"Central Arkansas Bears vs Austin Peay Governors","commence_time":"2026-11-21T22:01:00.000Z"},
+{"id":"49d447faf54e345bbcd34994aaeda955","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Houston Baptist Huskies","away_team":"UT Rio Grande Valley Vaqueros","title":"Houston Baptist Huskies vs UT Rio Grande Valley Vaqueros","commence_time":"2026-11-21T22:01:00.000Z"},
+{"id":"cbe55180a8bee495fa1520fbc1df314b","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Texas State Bobcats","away_team":"Washington State Cougars","title":"Texas State Bobcats vs Washington State Cougars","commence_time":"2026-11-21T23:00:00.000Z"},
+{"id":"6c1d080111feab6d4bbca4f1e337247c","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"Idaho State Bengals","away_team":"Idaho Vandals","title":"Idaho State Bengals vs Idaho Vandals","commence_time":"2026-11-21T23:01:00.000Z"},
+{"id":"37f01277971fbdbe6d2b8f77fa63dd52","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"USC Trojans","away_team":"Maryland Terrapins","title":"USC Trojans vs Maryland Terrapins","commence_time":"2026-11-21T23:15:00.000Z"},
+{"id":"9470f469f957e9eddae9392cb23b4623","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Kansas State Wildcats","away_team":"Arizona Wildcats","title":"Kansas State Wildcats vs Arizona Wildcats","commence_time":"2026-11-22T00:00:00.000Z"},
+{"id":"a36fd3d086dffefb5fc58b14fb6255fc","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Louisiana Tech Bulldogs","away_team":"Arkansas State Red Wolves","title":"Louisiana Tech Bulldogs vs Arkansas State Red Wolves","commence_time":"2026-11-22T00:00:00.000Z"},
+{"id":"8d53f308424d388c9003e02cac8b4cf6","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Miami Hurricanes","away_team":"Virginia Tech Hokies","title":"Miami Hurricanes vs Virginia Tech Hokies","commence_time":"2026-11-22T00:00:00.000Z"},
+{"id":"89e434722afd075e5488a6b9310325e9","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"San Jose State Spartans","away_team":"UNLV Rebels","title":"San Jose State Spartans vs UNLV Rebels","commence_time":"2026-11-22T00:00:00.000Z"},
+{"id":"965fb252b95c8546ba2d7c55bbaa9de9","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"McNeese State Cowboys","away_team":"Lamar Cardinals","title":"McNeese State Cowboys vs Lamar Cardinals","commence_time":"2026-11-22T00:01:00.000Z"},
+{"id":"4e40d05a5d98ac108cd15278646a545d","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"California Golden Bears","away_team":"Stanford Cardinal","title":"California Golden Bears vs Stanford Cardinal","commence_time":"2026-11-22T00:30:00.000Z"},
+{"id":"f23bc59387b6db63ad3de8b6bcc541fc","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Fresno State Bulldogs","away_team":"Colorado State Rams","title":"Fresno State Bulldogs vs Colorado State Rams","commence_time":"2026-11-22T00:30:00.000Z"},
+{"id":"a05c0d32b35dfd5cca63a61af28b9739","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"South Carolina Gamecocks","away_team":"Georgia Bulldogs","title":"South Carolina Gamecocks vs Georgia Bulldogs","commence_time":"2026-11-22T00:30:00.000Z"},
+{"id":"0bb0c3e15e4a8004f708162c14c5575d","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Missouri Tigers","away_team":"Kentucky Wildcats","title":"Missouri Tigers vs Kentucky Wildcats","commence_time":"2026-11-22T00:30:00.000Z"},
+{"id":"44e73391c2ac535ab552aac4bdcfa3b3","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Louisville Cardinals","away_team":"Pittsburgh Panthers","title":"Louisville Cardinals vs Pittsburgh Panthers","commence_time":"2026-11-22T00:30:00.000Z"},
+{"id":"fa98066b4b400fb6af0672e170cc584a","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Notre Dame Fighting Irish","away_team":"SMU Mustangs","title":"Notre Dame Fighting Irish vs SMU Mustangs","commence_time":"2026-11-22T00:30:00.000Z"},
+{"id":"9f3f8efae55dbb803964a5107350e263","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"UAB Blazers","away_team":"UTSA Roadrunners","title":"UAB Blazers vs UTSA Roadrunners","commence_time":"2026-11-22T01:00:00.000Z"},
+{"id":"cc36baa32fd057aea5218bfccf8592a5","sport_key":"americanfootball_ncaaf_fcs","sport_title":"NCAAF FCS","group":"American Football","home_team":"San Diego Toreros","away_team":"Stetson Hatters","title":"San Diego Toreros vs Stetson Hatters","commence_time":"2026-11-22T01:01:00.000Z"},
+{"id":"7585fb8b12453a68ca1195319ae44c78","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"TCU Horned Frogs","away_team":"Utah Utes","title":"TCU Horned Frogs vs Utah Utes","commence_time":"2026-11-22T02:00:00.000Z"},
+{"id":"028f0fcc2f6411c4816e543bb7fa226c","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Boise State Broncos","away_team":"San Diego State Aztecs","title":"Boise State Broncos vs San Diego State Aztecs","commence_time":"2026-11-22T02:30:00.000Z"},
+{"id":"ecfec2fe1db57f88e603f9947add1e26","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Arizona State Sun Devils","away_team":"Oklahoma State Cowboys","title":"Arizona State Sun Devils vs Oklahoma State Cowboys","commence_time":"2026-11-22T03:15:00.000Z"},
+{"id":"430ea047c8a027987881d51f810a6cf8","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Nevada Wolf Pack","away_team":"Hawaii Rainbow Warriors","title":"Nevada Wolf Pack vs Hawaii Rainbow Warriors","commence_time":"2026-11-22T03:30:00.000Z"},
+{"id":"6e36f5c3c55edcb31749b0de4a146d14","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Oregon State Beavers","away_team":"Utah State Aggies","title":"Oregon State Beavers vs Utah State Aggies","commence_time":"2026-11-22T03:30:00.000Z"},
+{"id":"77281db085b0b37254afb377a842eb55","sport_key":"basketball_nbl","sport_title":"NBL","group":"Basketball","home_team":"Brisbane Bullets","away_team":"Sydney Kings","title":"Brisbane Bullets vs Sydney Kings","commence_time":"2026-11-22T06:06:00.000Z"},
+{"id":"f687dcdffc83e8d365c3c00e857a5846","sport_key":"soccer_turkey_super_league","sport_title":"Turkey Super League","group":"Soccer","home_team":"Erzurum BB","away_team":"Goztepe","title":"Erzurum BB vs Goztepe","commence_time":"2026-11-22T10:30:00.000Z"},
+{"id":"be2fcabc408be29ca01ce92ab266f8b7","sport_key":"soccer_italy_serie_a","sport_title":"Serie A - Italy","group":"Soccer","home_team":"Juventus","away_team":"Venezia","title":"Juventus vs Venezia","commence_time":"2026-11-22T11:30:00.000Z"},
+{"id":"fcd7f5c66b60aa95faa584015a438332","sport_key":"soccer_belgium_first_div","sport_title":"Belgium First Div","group":"Soccer","home_team":"SK Beveren","away_team":"Gent","title":"SK Beveren vs Gent","commence_time":"2026-11-22T12:30:00.000Z"},
+{"id":"7ca047be895023baacc7727543d12658","sport_key":"soccer_germany_bundesliga2","sport_title":"Bundesliga 2 - Germany","group":"Soccer","home_team":"1. FC Kaiserslautern","away_team":"Dynamo Dresden","title":"1. FC Kaiserslautern vs Dynamo Dresden","commence_time":"2026-11-22T12:30:00.000Z"},
+{"id":"fbef2faa35a94ff9b71cbbb4767e8b51","sport_key":"soccer_germany_bundesliga2","sport_title":"Bundesliga 2 - Germany","group":"Soccer","home_team":"FC Energie Cottbus","away_team":"Hertha Berlin","title":"FC Energie Cottbus vs Hertha Berlin","commence_time":"2026-11-22T12:30:00.000Z"},
+{"id":"1773ac462fd3a3c4f0106f744117a936","sport_key":"soccer_germany_bundesliga2","sport_title":"Bundesliga 2 - Germany","group":"Soccer","home_team":"Karlsruher SC","away_team":"VfL Osnabrück","title":"Karlsruher SC vs VfL Osnabrück","commence_time":"2026-11-22T12:30:00.000Z"},
+{"id":"eb0975c520d98a85bfc02c40f8be23eb","sport_key":"soccer_switzerland_superleague","sport_title":"Swiss Superleague","group":"Soccer","home_team":"FC Zurich","away_team":"FC St Gallen","title":"FC Zurich vs FC St Gallen","commence_time":"2026-11-22T13:00:00.000Z"},
+{"id":"a968e1c9f7f2e05bace52a2dd77ea90a","sport_key":"soccer_turkey_super_league","sport_title":"Turkey Super League","group":"Soccer","home_team":"Kasimpasa SK","away_team":"Alanyaspor","title":"Kasimpasa SK vs Alanyaspor","commence_time":"2026-11-22T13:00:00.000Z"},
+{"id":"1ed6ce5484f2a65ed50be17f8e06f425","sport_key":"soccer_turkey_super_league","sport_title":"Turkey Super League","group":"Soccer","home_team":"Torku Konyaspor","away_team":"Besiktas JK","title":"Torku Konyaspor vs Besiktas JK","commence_time":"2026-11-22T13:00:00.000Z"},
+{"id":"5bc13c44b33981f3185400163388267e","sport_key":"soccer_italy_serie_a","sport_title":"Serie A - Italy","group":"Soccer","home_team":"Bologna","away_team":"Udinese","title":"Bologna vs Udinese","commence_time":"2026-11-22T14:00:00.000Z"},
+{"id":"76d4698a8417f32cb059f14a469939f3","sport_key":"soccer_italy_serie_a","sport_title":"Serie A - Italy","group":"Soccer","home_team":"Sassuolo","away_team":"Genoa","title":"Sassuolo vs Genoa","commence_time":"2026-11-22T14:00:00.000Z"},
+{"id":"6cad97568ca4c6b7caeaaa79a6a3054c","sport_key":"soccer_belgium_first_div","sport_title":"Belgium First Div","group":"Soccer","home_team":"KV Kortrijk","away_team":"Union Saint-Gilloise","title":"KV Kortrijk vs Union Saint-Gilloise","commence_time":"2026-11-22T15:00:00.000Z"},
+{"id":"81d367b0e275d4f5d904d59af2a46bd7","sport_key":"soccer_switzerland_superleague","sport_title":"Swiss Superleague","group":"Soccer","home_team":"FC Basel","away_team":"FC Luzern","title":"FC Basel vs FC Luzern","commence_time":"2026-11-22T15:30:00.000Z"},
+{"id":"817d0619127140a19785bc04419e057d","sport_key":"soccer_switzerland_superleague","sport_title":"Swiss Superleague","group":"Soccer","home_team":"FC Lausanne-Sport","away_team":"FC Vaduz","title":"FC Lausanne-Sport vs FC Vaduz","commence_time":"2026-11-22T15:30:00.000Z"},
+{"id":"2f3dfa781742b66f1412e15c132ff871","sport_key":"soccer_turkey_super_league","sport_title":"Turkey Super League","group":"Soccer","home_team":"Trabzonspor","away_team":"Eyüpspor","title":"Trabzonspor vs Eyüpspor","commence_time":"2026-11-22T16:00:00.000Z"},
+{"id":"5faf836ce6c0fd72af5d1fe258c63bc6","sport_key":"soccer_italy_serie_a","sport_title":"Serie A - Italy","group":"Soccer","home_team":"AC Milan","away_team":"Frosinone","title":"AC Milan vs Frosinone","commence_time":"2026-11-22T17:00:00.000Z"},
+{"id":"0a8990d4206c802cdba25a03b50e5d95","sport_key":"soccer_belgium_first_div","sport_title":"Belgium First Div","group":"Soccer","home_team":"Anderlecht","away_team":"Leuven","title":"Anderlecht vs Leuven","commence_time":"2026-11-22T17:30:00.000Z"},
+{"id":"403a88701352da05b0710a9e883b803e","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Kansas City Chiefs","away_team":"Arizona Cardinals","title":"Kansas City Chiefs vs Arizona Cardinals","commence_time":"2026-11-22T18:00:00.000Z"},
+{"id":"4527f57f5bc32742d8194af1ccf7da7e","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Carolina Panthers","away_team":"Baltimore Ravens","title":"Carolina Panthers vs Baltimore Ravens","commence_time":"2026-11-22T18:00:00.000Z"},
+{"id":"4c5b1c0843a260278e95eb93e7787576","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Buffalo Bills","away_team":"Miami Dolphins","title":"Buffalo Bills vs Miami Dolphins","commence_time":"2026-11-22T18:00:00.000Z"},
+{"id":"3ea90704fb576633bd1e2fa5aafd9ea3","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Chicago Bears","away_team":"New Orleans Saints","title":"Chicago Bears vs New Orleans Saints","commence_time":"2026-11-22T18:00:00.000Z"},
+{"id":"5e63079b678f8c13419adc169fff02d3","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Dallas Cowboys","away_team":"Tennessee Titans","title":"Dallas Cowboys vs Tennessee Titans","commence_time":"2026-11-22T18:00:00.000Z"},
+{"id":"41e2dd69bddd65d7e823d9ed61cc2afc","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Detroit Lions","away_team":"Tampa Bay Buccaneers","title":"Detroit Lions vs Tampa Bay Buccaneers","commence_time":"2026-11-22T18:00:00.000Z"},
+{"id":"cbe45bafcc2615fc1d96cbc12840377a","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Philadelphia Eagles","away_team":"Pittsburgh Steelers","title":"Philadelphia Eagles vs Pittsburgh Steelers","commence_time":"2026-11-22T18:00:00.000Z"},
+{"id":"7aa1bde245aaf2cce32c37a7f177ed0f","sport_key":"soccer_belgium_first_div","sport_title":"Belgium First Div","group":"Soccer","home_team":"Lommel SK","away_team":"Standard Liege","title":"Lommel SK vs Standard Liege","commence_time":"2026-11-22T18:15:00.000Z"},
+{"id":"e22f82b10fe71d230248b88fef87e58f","sport_key":"soccer_italy_serie_a","sport_title":"Serie A - Italy","group":"Soccer","home_team":"Atalanta BC","away_team":"Inter Milan","title":"Atalanta BC vs Inter Milan","commence_time":"2026-11-22T19:45:00.000Z"},
+{"id":"4b20b742b6168aaca4f25d87f11b1526","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Los Angeles Chargers","away_team":"New York Jets","title":"Los Angeles Chargers vs New York Jets","commence_time":"2026-11-22T21:05:00.000Z"},
+{"id":"1940706a79cbcbafacdcbf231069716b","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Denver Broncos","away_team":"Las Vegas Raiders","title":"Denver Broncos vs Las Vegas Raiders","commence_time":"2026-11-22T21:25:00.000Z"},
+{"id":"8ba112fabf4e87639338a5f437c5abfe","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"New York Giants","away_team":"Jacksonville Jaguars","title":"New York Giants vs Jacksonville Jaguars","commence_time":"2026-11-22T21:25:00.000Z"},
+{"id":"60e1d27b083a335b722c2c852ea85612","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"San Francisco 49ers","away_team":"Minnesota Vikings","title":"San Francisco 49ers vs Minnesota Vikings","commence_time":"2026-11-23T01:20:00.000Z"},
+{"id":"c1958a1dcd4f8228f4d09148fd6ea216","sport_key":"soccer_turkey_super_league","sport_title":"Turkey Super League","group":"Soccer","home_team":"Basaksehir","away_team":"Çorum FK","title":"Basaksehir vs Çorum FK","commence_time":"2026-11-23T17:00:00.000Z"},
+{"id":"99776445d5a5f4ed008f9a6d6a1495b7","sport_key":"soccer_italy_serie_a","sport_title":"Serie A - Italy","group":"Soccer","home_team":"Monza","away_team":"Fiorentina","title":"Monza vs Fiorentina","commence_time":"2026-11-23T19:45:00.000Z"},
+{"id":"3a60ed1d20004aa4d4772b2c1a2272e7","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Washington Commanders","away_team":"Cincinnati Bengals","title":"Washington Commanders vs Cincinnati Bengals","commence_time":"2026-11-24T01:15:00.000Z"},
+{"id":"5b612899d6dcdf998107f2c6c6e49a58","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Los Angeles Rams","away_team":"Green Bay Packers","title":"Los Angeles Rams vs Green Bay Packers","commence_time":"2026-11-26T01:00:00.000Z"},
+{"id":"9b825e6518156008da499be041975fdd","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Detroit Lions","away_team":"Chicago Bears","title":"Detroit Lions vs Chicago Bears","commence_time":"2026-11-26T18:00:00.000Z"},
+{"id":"ffaa06af56a7137d4b078c5c46c0b730","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Dallas Cowboys","away_team":"Philadelphia Eagles","title":"Dallas Cowboys vs Philadelphia Eagles","commence_time":"2026-11-26T21:30:00.000Z"},
+{"id":"b39108d2cfcd62d29954aee80bbf7b51","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Texas Tech Red Raiders","away_team":"TCU Horned Frogs","title":"Texas Tech Red Raiders vs TCU Horned Frogs","commence_time":"2026-11-27T01:00:00.000Z"},
+{"id":"f36f518585aec40e8cb40e071c0844aa","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Buffalo Bills","away_team":"Kansas City Chiefs","title":"Buffalo Bills vs Kansas City Chiefs","commence_time":"2026-11-27T01:20:00.000Z"},
+{"id":"8fc8552ec633bb09ca2bcb9b15cb6896","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Iowa Hawkeyes","away_team":"Nebraska Cornhuskers","title":"Iowa Hawkeyes vs Nebraska Cornhuskers","commence_time":"2026-11-27T17:00:00.000Z"},
+{"id":"e9a663f13e7503c0ac20a54804338b60","sport_key":"soccer_italy_serie_a","sport_title":"Serie A - Italy","group":"Soccer","home_team":"Venezia","away_team":"Bologna","title":"Venezia vs Bologna","commence_time":"2026-11-27T19:45:00.000Z"},
+{"id":"44a3bcf5bd002583ddef2207a92dd977","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Pittsburgh Steelers","away_team":"Denver Broncos","title":"Pittsburgh Steelers vs Denver Broncos","commence_time":"2026-11-27T20:00:00.000Z"},
+{"id":"4c69ecf41bb2d36dfeedeae23acc5b86","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Texas A&M Aggies","away_team":"Texas Longhorns","title":"Texas A&M Aggies vs Texas Longhorns","commence_time":"2026-11-28T00:30:00.000Z"},
+{"id":"af3432ca724da03d38f0ff4e62045e4c","sport_key":"soccer_italy_serie_a","sport_title":"Serie A - Italy","group":"Soccer","home_team":"Frosinone","away_team":"Parma","title":"Frosinone vs Parma","commence_time":"2026-11-28T14:00:00.000Z"},
+{"id":"6474599b7377102869153e25af140533","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Oregon Ducks","away_team":"Washington Huskies","title":"Oregon Ducks vs Washington Huskies","commence_time":"2026-11-28T16:00:00.000Z"},
+{"id":"735be3d0a18e8d57cc515971a6735c7d","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Kentucky Wildcats","away_team":"Louisville Cardinals","title":"Kentucky Wildcats vs Louisville Cardinals","commence_time":"2026-11-28T17:00:00.000Z"},
+{"id":"426658869d8f93e891cad97029725975","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Ohio State Buckeyes","away_team":"Michigan Wolverines","title":"Ohio State Buckeyes vs Michigan Wolverines","commence_time":"2026-11-28T17:00:00.000Z"},
+{"id":"f77049eaeb5b3c0945c4bc2790dda6e6","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Missouri Tigers","away_team":"Oklahoma Sooners","title":"Missouri Tigers vs Oklahoma Sooners","commence_time":"2026-11-28T17:00:00.000Z"},
+{"id":"c58a68d46da0d0748169156702f9b4d5","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Syracuse Orange","away_team":"Notre Dame Fighting Irish","title":"Syracuse Orange vs Notre Dame Fighting Irish","commence_time":"2026-11-28T17:00:00.000Z"},
+{"id":"aec86b479e922f437ba228b9a9d74da1","sport_key":"soccer_italy_serie_a","sport_title":"Serie A - Italy","group":"Soccer","home_team":"Torino","away_team":"Lazio","title":"Torino vs Lazio","commence_time":"2026-11-28T17:00:00.000Z"},
+{"id":"af18b1df00d2faf847822be6a84397f1","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Mikkel Kessler","away_team":"Bernard Joseph","title":"Mikkel Kessler vs Bernard Joseph","commence_time":"2026-11-28T19:00:00.000Z"},
+{"id":"f128c19fa7af43e30dbe3c373e7bc27e","sport_key":"soccer_italy_serie_a","sport_title":"Serie A - Italy","group":"Soccer","home_team":"Inter Milan","away_team":"Genoa","title":"Inter Milan vs Genoa","commence_time":"2026-11-28T19:45:00.000Z"},
+{"id":"4a15b4432ef52d1717887e5badfdc0e3","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Wake Forest Demon Deacons","away_team":"Duke Blue Devils","title":"Wake Forest Demon Deacons vs Duke Blue Devils","commence_time":"2026-11-28T20:30:00.000Z"},
+{"id":"ab91c66dfce2e452eb546cde1cf61879","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"UCLA Bruins","away_team":"USC Trojans","title":"UCLA Bruins vs USC Trojans","commence_time":"2026-11-28T20:30:00.000Z"},
+{"id":"c18243206995f61294d952c26661373b","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Agit Kabayel","away_team":"Nelson Hysa","title":"Agit Kabayel vs Nelson Hysa","commence_time":"2026-11-28T21:00:00.000Z"},
+{"id":"7f3768e75aa0ea31e6a30cff6cf631be","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Indiana Hoosiers","away_team":"Purdue Boilermakers","title":"Indiana Hoosiers vs Purdue Boilermakers","commence_time":"2026-11-29T00:00:00.000Z"},
+{"id":"5f74ef6944e660a91381ecf388633c69","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Alabama Crimson Tide","away_team":"Auburn Tigers","title":"Alabama Crimson Tide vs Auburn Tigers","commence_time":"2026-11-29T00:30:00.000Z"},
+{"id":"f825e4c4d512e1c0a6db6ac7d8bc0326","sport_key":"americanfootball_ncaaf","sport_title":"NCAAF","group":"American Football","home_team":"Arizona Wildcats","away_team":"Arizona State Sun Devils","title":"Arizona Wildcats vs Arizona State Sun Devils","commence_time":"2026-11-29T02:00:00.000Z"},
+{"id":"35aff424a542edb3ed32edbc12888002","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"David Jimenez","away_team":"Seigo Yuri Akui","title":"David Jimenez vs Seigo Yuri Akui","commence_time":"2026-11-29T07:00:00.000Z"},
+{"id":"fa5ff410f4cf4432424aee65f4e6f2fa","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Riku Masuda","away_team":"Seiya Tsutsumi","title":"Riku Masuda vs Seiya Tsutsumi","commence_time":"2026-11-29T07:00:00.000Z"},
+{"id":"4afca42deff5ca6c123b3dff545d0901","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Kenshiro Teraji","away_team":"Jassiel Amador","title":"Kenshiro Teraji vs Jassiel Amador","commence_time":"2026-11-29T11:00:00.000Z"},
+{"id":"d3d47b94324eb7cde85bd93993437d1c","sport_key":"soccer_italy_serie_a","sport_title":"Serie A - Italy","group":"Soccer","home_team":"Udinese","away_team":"Fiorentina","title":"Udinese vs Fiorentina","commence_time":"2026-11-29T11:30:00.000Z"},
+{"id":"dc63586a1b1d938a461d71bf5b36d982","sport_key":"soccer_italy_serie_a","sport_title":"Serie A - Italy","group":"Soccer","home_team":"Sassuolo","away_team":"Napoli","title":"Sassuolo vs Napoli","commence_time":"2026-11-29T14:00:00.000Z"},
+{"id":"c979bd4559d2d81a8e2fe8f2d4aec376","sport_key":"soccer_italy_serie_a","sport_title":"Serie A - Italy","group":"Soccer","home_team":"AS Roma","away_team":"Monza","title":"AS Roma vs Monza","commence_time":"2026-11-29T17:00:00.000Z"},
+{"id":"6a05021bdb6bab24b9bb381ffff10f0c","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Minnesota Vikings","away_team":"Atlanta Falcons","title":"Minnesota Vikings vs Atlanta Falcons","commence_time":"2026-11-29T18:00:00.000Z"},
+{"id":"60d0c074801985c1062795362a24200e","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Houston Texans","away_team":"Baltimore Ravens","title":"Houston Texans vs Baltimore Ravens","commence_time":"2026-11-29T18:00:00.000Z"},
+{"id":"f7d3ae7a8fe2438cef7d7d7bc67e31db","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Cincinnati Bengals","away_team":"New Orleans Saints","title":"Cincinnati Bengals vs New Orleans Saints","commence_time":"2026-11-29T18:00:00.000Z"},
+{"id":"e9da808e36e1b7475698a57465ad4519","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Indianapolis Colts","away_team":"New York Giants","title":"Indianapolis Colts vs New York Giants","commence_time":"2026-11-29T18:00:00.000Z"},
+{"id":"81a8fee5b649a3ad5ad59e9528f2f376","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Jacksonville Jaguars","away_team":"Tennessee Titans","title":"Jacksonville Jaguars vs Tennessee Titans","commence_time":"2026-11-29T18:00:00.000Z"},
+{"id":"5ea0e3ea5944b0ad5169f21c0787b331","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Miami Dolphins","away_team":"New York Jets","title":"Miami Dolphins vs New York Jets","commence_time":"2026-11-29T18:00:00.000Z"},
+{"id":"3876ad367184af2f8fc04a544fc894aa","sport_key":"soccer_italy_serie_a","sport_title":"Serie A - Italy","group":"Soccer","home_team":"Como","away_team":"Juventus","title":"Como vs Juventus","commence_time":"2026-11-29T19:45:00.000Z"},
+{"id":"c64ceba13ede564e8658693e3171e7f9","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Los Angeles Chargers","away_team":"New England Patriots","title":"Los Angeles Chargers vs New England Patriots","commence_time":"2026-11-29T21:05:00.000Z"},
+{"id":"69a1dbe9de3d3212c3a7a55be5d204ab","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Arizona Cardinals","away_team":"Washington Commanders","title":"Arizona Cardinals vs Washington Commanders","commence_time":"2026-11-29T21:25:00.000Z"},
+{"id":"d68dced0b26726890b9c79bd19a5ffe5","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"San Francisco 49ers","away_team":"Seattle Seahawks","title":"San Francisco 49ers vs Seattle Seahawks","commence_time":"2026-11-29T21:25:00.000Z"},
+{"id":"eaa993c3d62d6b5aeb6142cdd7862fd5","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Cleveland Browns","away_team":"Las Vegas Raiders","title":"Cleveland Browns vs Las Vegas Raiders","commence_time":"2026-11-30T01:20:00.000Z"},
+{"id":"f1d2a6064d1452074570bbc656d36a20","sport_key":"soccer_italy_serie_a","sport_title":"Serie A - Italy","group":"Soccer","home_team":"Lecce","away_team":"Atalanta BC","title":"Lecce vs Atalanta BC","commence_time":"2026-11-30T17:30:00.000Z"},
+{"id":"3d57da6bdb20b65145bc2479ee5f2ae7","sport_key":"soccer_italy_serie_a","sport_title":"Serie A - Italy","group":"Soccer","home_team":"Cagliari","away_team":"AC Milan","title":"Cagliari vs AC Milan","commence_time":"2026-11-30T19:45:00.000Z"},
+{"id":"2cdaecba7c0bff9b58a48a82e6ee17a7","sport_key":"americanfootball_nfl","sport_title":"NFL","group":"American Football","home_team":"Tampa Bay Buccaneers","away_team":"Carolina Panthers","title":"Tampa Bay Buccaneers vs Carolina Panthers","commence_time":"2026-12-01T01:15:00.000Z"},
+{"id":"1888f02c308437d8e14890fc73dec98b","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Adam Azim","away_team":"Gabriel Gollaz Valenzuela","title":"Adam Azim vs Gabriel Gollaz Valenzuela","commence_time":"2026-12-04T22:00:00.000Z"},
+{"id":"584e2c7af822b1c2501131dd941d5fdc","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Conah Walker","away_team":"Alexis Rocha","title":"Conah Walker vs Alexis Rocha","commence_time":"2026-12-05T22:00:00.000Z"},
+{"id":"9841c39a8e2ad46da8b9419fb39335f5","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Nikita Tszyu","away_team":"Roberto Valenzuela Jr","title":"Nikita Tszyu vs Roberto Valenzuela Jr","commence_time":"2026-12-06T01:00:00.000Z"},
+{"id":"fac779f4dad09a10c034155d1ca8acd6","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Emiliano Vargas","away_team":"Omar Juarez","title":"Emiliano Vargas vs Omar Juarez","commence_time":"2026-12-06T02:00:00.000Z"},
+{"id":"7925d57df203c5ae97477fec65f62c83","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Vergil Ortiz Jr","away_team":"Keith Thurman","title":"Vergil Ortiz Jr vs Keith Thurman","commence_time":"2026-12-06T03:00:00.000Z"},
+{"id":"1d72c387fbcd738b8ae53f7982e6535c","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"David Benavidez","away_team":"Michal Cieslak","title":"David Benavidez vs Michal Cieslak","commence_time":"2026-12-06T04:00:00.000Z"},
+{"id":"0b629a238b2f333babea078766b9a4bb","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Tyson Fury","away_team":"Anthony Joshua","title":"Tyson Fury vs Anthony Joshua","commence_time":"2026-12-12T02:00:00.000Z"},
+{"id":"e0ca315747e3048e5dfa370b7e383c0a","sport_key":"cricket_big_bash","sport_title":"Big Bash","group":"Cricket","home_team":"Melbourne Renegades","away_team":"Perth Scorchers","title":"Melbourne Renegades vs Perth Scorchers","commence_time":"2026-12-12T09:10:00.000Z"},
+{"id":"9b1dcce04470c40c5647966302e51a43","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Erislandy Lara","away_team":"Tim Tszyu","title":"Erislandy Lara vs Tim Tszyu","commence_time":"2026-12-13T05:00:00.000Z"},
+{"id":"354f7c285b74d670261dc358d9591222","sport_key":"cricket_big_bash","sport_title":"Big Bash","group":"Cricket","home_team":"Brisbane Heat","away_team":"Sydney Sixers","title":"Brisbane Heat vs Sydney Sixers","commence_time":"2026-12-15T08:15:00.000Z"},
+{"id":"97d05c50a8a0ae29a7c5b46384ab976e","sport_key":"cricket_big_bash","sport_title":"Big Bash","group":"Cricket","home_team":"Sydney Thunder","away_team":"Adelaide Strikers","title":"Sydney Thunder vs Adelaide Strikers","commence_time":"2026-12-16T08:15:00.000Z"},
+{"id":"98d4d39d24bb5922ea4f2534111d4c8f","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Anthony Cacace","away_team":"Nick Ball","title":"Anthony Cacace vs Nick Ball","commence_time":"2026-12-19T22:00:00.000Z"},
+{"id":"4453fea37e575796ab833b75f4c17a39","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Brian Norman Jr","away_team":"Abel Ramos","title":"Brian Norman Jr vs Abel Ramos","commence_time":"2026-12-20T03:00:00.000Z"},
+{"id":"4d1792b1827c82c24c4f786a9115cf93","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Devin Haney","away_team":"Liam Paro","title":"Devin Haney vs Liam Paro","commence_time":"2026-12-20T04:00:00.000Z"},
+{"id":"b9f92763c9ba2ddd9404c647fb25513c","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Jake Paul","away_team":"Cédric Doumbé","title":"Jake Paul vs Cédric Doumbé","commence_time":"2026-12-24T19:00:00.000Z"},
+{"id":"13245719437f42a035a8c345d79b428f","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Daniel Dubois","away_team":"Agit Kabayel","title":"Daniel Dubois vs Agit Kabayel","commence_time":"2026-12-31T22:57:00.000Z"},
+{"id":"d30e22bf02a561ed00ba7112fe4376fe","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Fabio Wardley","away_team":"Agit Kabayel","title":"Fabio Wardley vs Agit Kabayel","commence_time":"2026-12-31T22:57:00.000Z"},
+{"id":"8bf8a5537f4f6861069c3876481d0853","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Daniel Dubois","away_team":"Anthony Joshua","title":"Daniel Dubois vs Anthony Joshua","commence_time":"2026-12-31T22:57:00.000Z"},
+{"id":"274cb16d3eb11c14067f87771ee610b0","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Anthony Joshua","away_team":"Fabio Wardley","title":"Anthony Joshua vs Fabio Wardley","commence_time":"2026-12-31T22:57:00.000Z"},
+{"id":"ab701345d498dce18cd30d5b20777549","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Oleksandr Usyk","away_team":"Daniel Dubois","title":"Oleksandr Usyk vs Daniel Dubois","commence_time":"2026-12-31T22:57:00.000Z"},
+{"id":"5fdfa6d76557cc26921607cd5e777662","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Daniel Dubois","away_team":"Richard Riakporhe","title":"Daniel Dubois vs Richard Riakporhe","commence_time":"2026-12-31T22:57:00.000Z"},
+{"id":"746014ec5762c451530c1f13a26da0e8","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Daniel Dubois","away_team":"Tyson Fury","title":"Daniel Dubois vs Tyson Fury","commence_time":"2026-12-31T22:57:00.000Z"},
+{"id":"8c926b3ed01080e6128d48ebda153f89","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Fabio Wardley","away_team":"Deontay Wilder","title":"Fabio Wardley vs Deontay Wilder","commence_time":"2026-12-31T22:57:00.000Z"},
+{"id":"8018c7b1f7a98a361ae2b7f6d12631e9","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Fabio Wardley","away_team":"Filip Hrgović","title":"Fabio Wardley vs Filip Hrgović","commence_time":"2026-12-31T22:57:00.000Z"},
+{"id":"9b31e9a14fda97522f9d455e2f1cb796","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Tyson Fury","away_team":"Fabio Wardley","title":"Tyson Fury vs Fabio Wardley","commence_time":"2026-12-31T22:57:00.000Z"},
+{"id":"dd09e47844a3626bbddd3410714b719f","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Ryan Garner","away_team":"James Dickens","title":"Ryan Garner vs James Dickens","commence_time":"2027-01-09T22:00:00.000Z"},
+{"id":"ee667837ffbc78895e0568db3850534d","sport_key":"boxing_boxing","sport_title":"Boxing","group":"Boxing","home_team":"Jacob Bank","away_team":"Zhanibek Alimkhanuly","title":"Jacob Bank vs Zhanibek Alimkhanuly","commence_time":"2027-01-23T19:00:00.000Z"},
+{"id":"f6a7f12a4dd65f00ba2f045d01694cd1","sport_key":"rugbyleague_nrl","sport_title":"NRL","group":"Rugby League","home_team":"Parramatta Eels","away_team":"Gold Coast Titans","title":"Parramatta Eels vs Gold Coast Titans","commence_time":"2027-02-28T02:30:00.000Z"},
+{"id":"68c9cacfcfca3559d1c5ebff4e611910","sport_key":"rugbyleague_nrl","sport_title":"NRL","group":"Rugby League","home_team":"Melbourne Storm","away_team":"Wests Tigers","title":"Melbourne Storm vs Wests Tigers","commence_time":"2027-02-28T04:30:00.000Z"},
+{"id":"ba4270aed9d29766f1452471c2929993","sport_key":"rugbyleague_nrl","sport_title":"NRL","group":"Rugby League","home_team":"Sydney Roosters","away_team":"Brisbane Broncos","title":"Sydney Roosters vs Brisbane Broncos","commence_time":"2027-03-04T09:00:00.000Z"},
+{"id":"0815c9d9b45514f13d9aa16028d66b73","sport_key":"rugbyleague_nrl","sport_title":"NRL","group":"Rugby League","home_team":"New Zealand Warriors","away_team":"Canterbury Bulldogs","title":"New Zealand Warriors vs Canterbury Bulldogs","commence_time":"2027-03-05T07:00:00.000Z"},
+{"id":"39b3c775b6cead165b7c0e659696357f","sport_key":"rugbyleague_nrl","sport_title":"NRL","group":"Rugby League","home_team":"St George Illawarra Dragons","away_team":"North Queensland Cowboys","title":"St George Illawarra Dragons vs North Queensland Cowboys","commence_time":"2027-03-05T09:00:00.000Z"},
+{"id":"b3832744e33550beff2ee8aa7927f031","sport_key":"rugbyleague_nrl","sport_title":"NRL","group":"Rugby League","home_team":"Dolphins","away_team":"Cronulla Sutherland Sharks","title":"Dolphins vs Cronulla Sutherland Sharks","commence_time":"2027-03-06T06:30:00.000Z"},
+{"id":"6cf1cf7fcb1acaa685e825c8747c700e","sport_key":"rugbyleague_nrl","sport_title":"NRL","group":"Rugby League","home_team":"Newcastle Knights","away_team":"Penrith Panthers","title":"Newcastle Knights vs Penrith Panthers","commence_time":"2027-03-06T08:35:00.000Z"},
+{"id":"d8a0446ea7b80f631c75c9da1d643f35","sport_key":"rugbyleague_nrl","sport_title":"NRL","group":"Rugby League","home_team":"Perth Bears","away_team":"Manly Warringah Sea Eagles","title":"Perth Bears vs Manly Warringah Sea Eagles","commence_time":"2027-03-07T05:05:00.000Z"},
+{"id":"5708ae2a7844fc130805e900f94ae104","sport_key":"rugbyleague_nrl","sport_title":"NRL","group":"Rugby League","home_team":"Canberra Raiders","away_team":"South Sydney Rabbitohs","title":"Canberra Raiders vs South Sydney Rabbitohs","commence_time":"2027-03-07T07:15:00.000Z"},
+{"id":"b714a64a195c405224ef08bb102bc246","sport_key":"aussierules_afl","sport_title":"AFL","group":"Aussie Rules","home_team":"Sydney Swans","away_team":"Geelong Cats","title":"Sydney Swans vs Geelong Cats","commence_time":"2027-03-17T08:30:00.000Z"},
+{"id":"1bf31c7d3514628d600eaed22d795ff5","sport_key":"aussierules_afl","sport_title":"AFL","group":"Aussie Rules","home_team":"Fremantle Dockers","away_team":"Western Bulldogs","title":"Fremantle Dockers vs Western Bulldogs","commence_time":"2027-03-18T09:10:00.000Z"},
+{"id":"6c2942024ca61e04a027d41904301ae9","sport_key":"aussierules_afl","sport_title":"AFL","group":"Aussie Rules","home_team":"Hawthorn Hawks","away_team":"Brisbane Lions","title":"Hawthorn Hawks vs Brisbane Lions","commence_time":"2027-03-19T08:50:00.000Z"},
+{"id":"fb9d0d63fba15d65917f39a4ad8683d5","sport_key":"aussierules_afl","sport_title":"AFL","group":"Aussie Rules","home_team":"Richmond Tigers","away_team":"Carlton Blues","title":"Richmond Tigers vs Carlton Blues","commence_time":"2027-03-20T01:35:00.000Z"},
+{"id":"42435a5853f3d693075c9a8c79b90adf","sport_key":"aussierules_afl","sport_title":"AFL","group":"Aussie Rules","home_team":"Adelaide Crows","away_team":"GWS GIANTS","title":"Adelaide Crows vs GWS GIANTS","commence_time":"2027-03-20T05:15:00.000Z"},
+{"id":"658c69de73b745da5671065668d15cc8","sport_key":"aussierules_afl","sport_title":"AFL","group":"Aussie Rules","home_team":"St Kilda Saints","away_team":"Collingwood Magpies","title":"St Kilda Saints vs Collingwood Magpies","commence_time":"2027-03-20T08:40:00.000Z"},
+{"id":"3d084cc2b6d48bbefe8014c7b547ba1d","sport_key":"aussierules_afl","sport_title":"AFL","group":"Aussie Rules","home_team":"North Melbourne Kangaroos","away_team":"Port Adelaide Power","title":"North Melbourne Kangaroos vs Port Adelaide Power","commence_time":"2027-03-21T02:10:00.000Z"},
+{"id":"1d4b7c091ed7192a152751266f64d2a0","sport_key":"aussierules_afl","sport_title":"AFL","group":"Aussie Rules","home_team":"Melbourne Demons","away_team":"Essendon Bombers","title":"Melbourne Demons vs Essendon Bombers","commence_time":"2027-03-21T04:15:00.000Z"},
+{"id":"4ff99e0e02c853759c408240efd30967","sport_key":"aussierules_afl","sport_title":"AFL","group":"Aussie Rules","home_team":"West Coast Eagles","away_team":"Gold Coast Suns","title":"West Coast Eagles vs Gold Coast Suns","commence_time":"2027-03-21T07:10:00.000Z"}
+]}
