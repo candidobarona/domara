@@ -12,8 +12,8 @@ const TARGETS = [
   { name: 'NFL', keys: ['americanfootball_nfl'], re: /americanfootball_nfl$/i, group: 'American Football' },
   { name: 'NBA', keys: ['basketball_nba'], re: /basketball_nba$/i, group: 'Basketball' },
   { name: 'Euroleague', keys: ['basketball_euroleague'], re: /basketball_euroleague/i, group: 'Basketball' },
-  { name: 'International Twenty20', keys: ['cricket_international_t20'], re: /cricket_international_t20/i, group: 'Cricket' },
-  { name: 'Championship', keys: ['soccer_efl_champ'], re: /^soccer_efl_champ/i },
+  /*{ name: 'International Twenty20', keys: ['cricket_international_t20'], re: /cricket_international_t20/i, group: 'Cricket' },*/
+  /*{ name: 'Championship', keys: ['soccer_efl_champ'], re: /^soccer_efl_champ/i },*/
   { name: 'Brazil Série A', keys: ['soccer_brazil_campeonato'], re: /brazil.*(serie|campeonato)/i },
   { name: 'Bundesliga', keys: ['soccer_germany_bundesliga'], re: /germany_bundesliga$/i },
   { name: 'Champions League', keys: ['soccer_uefa_champs_league', 'soccer_uefa_champions_league'], re: /uefa.*champ/i },
