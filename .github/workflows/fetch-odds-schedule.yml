@@ -1,7 +1,7 @@
 name: Fetch odds schedule
 on:
   schedule:
-    - cron: '0 */6 * * *'   # every 6 hours
+    - cron: '17 */3 * * *'   # every 3 hours
   workflow_dispatch:         # manual "Run workflow" button
 permissions:
   contents: write
