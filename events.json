@@ -1,0 +1,1138 @@
+{
+ "generated": "2026-11-19T09:30:39.917Z",
+ "report": [
+  {
+   "id": "laliga",
+   "name": "LaLiga",
+   "count": 20,
+   "status": "ok",
+   "note": "",
+   "src": "soccer_spain_la_liga"
+  },
+  {
+   "id": "pl",
+   "name": "Premier League",
+   "count": 20,
+   "status": "ok",
+   "note": "",
+   "src": "soccer_epl"
+  },
+  {
+   "id": "sa",
+   "name": "Serie A",
+   "count": 20,
+   "status": "ok",
+   "note": "",
+   "src": "soccer_italy_serie_a"
+  },
+  {
+   "id": "l1",
+   "name": "Ligue 1",
+   "count": 18,
+   "status": "ok",
+   "note": "",
+   "src": "soccer_france_ligue_one"
+  },
+  {
+   "id": "bl",
+   "name": "Bundesliga",
+   "count": 18,
+   "status": "ok",
+   "note": "",
+   "src": "soccer_germany_bundesliga"
+  },
+  {
+   "id": "pt",
+   "name": "Liga Portugal",
+   "count": 9,
+   "status": "ok",
+   "note": "",
+   "src": "soccer_portugal_primeira_liga"
+  },
+  {
+   "id": "ucl",
+   "name": "Champions League",
+   "count": 18,
+   "status": "ok",
+   "note": "",
+   "src": "soccer_uefa_champs_league"
+  },
+  {
+   "id": "uel",
+   "name": "Europa League",
+   "count": 18,
+   "status": "ok",
+   "note": "",
+   "src": "soccer_uefa_europa_league"
+  },
+  {
+   "id": "unl",
+   "name": "Nations League",
+   "count": 0,
+   "status": "inactive",
+   "note": "sport_key not active right now (off-season or not offered)",
+   "src": "soccer_uefa_nations_league"
+  },
+  {
+   "id": "arg",
+   "name": "Liga Argentina",
+   "count": 8,
+   "status": "ok",
+   "note": "",
+   "src": "soccer_argentina_primera_division"
+  },
+  {
+   "id": "bra",
+   "name": "Brasileirão",
+   "count": 17,
+   "status": "ok",
+   "note": "",
+   "src": "soccer_brazil_campeonato"
+  },
+  {
+   "id": "nba",
+   "name": "NBA",
+   "count": 4,
+   "status": "ok",
+   "note": "",
+   "src": "basketball_nba"
+  },
+  {
+   "id": "nfl",
+   "name": "NFL",
+   "count": 29,
+   "status": "ok",
+   "note": "",
+   "src": "americanfootball_nfl"
+  },
+  {
+   "id": "rwc",
+   "name": "Rugby World Cup",
+   "count": 0,
+   "status": "inactive",
+   "note": "sport_key not active right now (off-season or not offered)",
+   "src": "rugbyunion_world_cup"
+  },
+  {
+   "id": "6n",
+   "name": "Six Nations",
+   "count": 0,
+   "status": "inactive",
+   "note": "sport_key not active right now (off-season or not offered)",
+   "src": "rugbyunion_six_nations"
+  },
+  {
+   "id": "trc",
+   "name": "Rugby Championship",
+   "count": 0,
+   "status": "inactive",
+   "note": "sport_key not active right now (off-season or not offered)",
+   "src": "rugbyunion_rugby_championship"
+  },
+  {
+   "id": "nc",
+   "name": "Nations Championship",
+   "count": 0,
+   "status": "inactive",
+   "note": "sport_key not active right now (off-season or not offered)",
+   "src": "rugbyunion_international"
+  }
+ ],
+ "events": [
+  {
+   "c": "bra",
+   "s": "2026-11-19T22:30:00.000Z",
+   "title": "Vitoria vs Bragantino-SP"
+  },
+  {
+   "c": "bra",
+   "s": "2026-11-19T22:30:00.000Z",
+   "title": "Vasco da Gama vs Internacional"
+  },
+  {
+   "c": "bra",
+   "s": "2026-11-20T00:30:00.000Z",
+   "title": "Sao Paulo vs Fluminense"
+  },
+  {
+   "c": "nba",
+   "s": "2026-11-20T01:10:00.000Z",
+   "title": "Memphis Grizzlies vs Golden State Warriors"
+  },
+  {
+   "c": "nba",
+   "s": "2026-11-20T01:10:00.000Z",
+   "title": "San Antonio Spurs vs Los Angeles Clippers"
+  },
+  {
+   "c": "nba",
+   "s": "2026-11-20T01:10:00.000Z",
+   "title": "Milwaukee Bucks vs Portland Trail Blazers"
+  },
+  {
+   "c": "nba",
+   "s": "2026-11-20T01:10:00.000Z",
+   "title": "Minnesota Timberwolves vs New York Knicks"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-20T01:15:00.000Z",
+   "title": "Houston Texans vs Indianapolis Colts"
+  },
+  {
+   "c": "bl",
+   "s": "2026-11-20T19:30:00.000Z",
+   "title": "Bayern Munich vs 1. FC Köln"
+  },
+  {
+   "c": "l1",
+   "s": "2026-11-20T19:45:00.000Z",
+   "title": "Troyes vs Le Havre"
+  },
+  {
+   "c": "laliga",
+   "s": "2026-11-20T20:00:00.000Z",
+   "title": "Athletic Bilbao vs Espanyol"
+  },
+  {
+   "c": "arg",
+   "s": "2026-11-20T23:00:00.000Z",
+   "title": "Velez Sarsfield BA vs Belgrano de Cordoba"
+  },
+  {
+   "c": "pl",
+   "s": "2026-11-21T12:30:00.000Z",
+   "title": "Manchester City vs Fulham"
+  },
+  {
+   "c": "laliga",
+   "s": "2026-11-21T13:00:00.000Z",
+   "title": "Alavés vs Deportivo La Coruña"
+  },
+  {
+   "c": "sa",
+   "s": "2026-11-21T14:00:00.000Z",
+   "title": "Como vs Cagliari"
+  },
+  {
+   "c": "sa",
+   "s": "2026-11-21T14:00:00.000Z",
+   "title": "Lazio vs Lecce"
+  },
+  {
+   "c": "bl",
+   "s": "2026-11-21T14:30:00.000Z",
+   "title": "Bayer Leverkusen vs SC Paderborn"
+  },
+  {
+   "c": "bl",
+   "s": "2026-11-21T14:30:00.000Z",
+   "title": "Borussia Monchengladbach vs Borussia Dortmund"
+  },
+  {
+   "c": "bl",
+   "s": "2026-11-21T14:30:00.000Z",
+   "title": "Eintracht Frankfurt vs TSG Hoffenheim"
+  },
+  {
+   "c": "bl",
+   "s": "2026-11-21T14:30:00.000Z",
+   "title": "Elversberg vs SC Freiburg"
+  },
+  {
+   "c": "bl",
+   "s": "2026-11-21T14:30:00.000Z",
+   "title": "Union Berlin vs RB Leipzig"
+  },
+  {
+   "c": "pl",
+   "s": "2026-11-21T15:00:00.000Z",
+   "title": "Aston Villa vs Sunderland"
+  },
+  {
+   "c": "pl",
+   "s": "2026-11-21T15:00:00.000Z",
+   "title": "Bournemouth vs Nottingham Forest"
+  },
+  {
+   "c": "pl",
+   "s": "2026-11-21T15:00:00.000Z",
+   "title": "Chelsea vs Leeds United"
+  },
+  {
+   "c": "pl",
+   "s": "2026-11-21T15:00:00.000Z",
+   "title": "Coventry City vs Crystal Palace"
+  },
+  {
+   "c": "pl",
+   "s": "2026-11-21T15:00:00.000Z",
+   "title": "Tottenham Hotspur vs Ipswich Town"
+  },
+  {
+   "c": "laliga",
+   "s": "2026-11-21T15:15:00.000Z",
+   "title": "Rayo Vallecano vs Valencia"
+  },
+  {
+   "c": "l1",
+   "s": "2026-11-21T16:15:00.000Z",
+   "title": "Nice vs Paris Saint Germain"
+  },
+  {
+   "c": "sa",
+   "s": "2026-11-21T17:00:00.000Z",
+   "title": "Parma vs AS Roma"
+  },
+  {
+   "c": "laliga",
+   "s": "2026-11-21T17:30:00.000Z",
+   "title": "Sevilla vs Real Betis"
+  },
+  {
+   "c": "pl",
+   "s": "2026-11-21T17:30:00.000Z",
+   "title": "Newcastle United vs Arsenal"
+  },
+  {
+   "c": "bl",
+   "s": "2026-11-21T17:30:00.000Z",
+   "title": "FC Schalke 04 vs VfB Stuttgart"
+  },
+  {
+   "c": "arg",
+   "s": "2026-11-21T18:00:00.000Z",
+   "title": "Defensa y Justicia vs Barracas Central"
+  },
+  {
+   "c": "bra",
+   "s": "2026-11-21T19:30:00.000Z",
+   "title": "Palmeiras vs Flamengo"
+  },
+  {
+   "c": "sa",
+   "s": "2026-11-21T19:45:00.000Z",
+   "title": "Napoli vs Torino"
+  },
+  {
+   "c": "l1",
+   "s": "2026-11-21T19:45:00.000Z",
+   "title": "AS Monaco vs Auxerre"
+  },
+  {
+   "c": "l1",
+   "s": "2026-11-21T19:45:00.000Z",
+   "title": "Strasbourg vs Brest"
+  },
+  {
+   "c": "l1",
+   "s": "2026-11-21T19:45:00.000Z",
+   "title": "Lille vs Lyon"
+  },
+  {
+   "c": "l1",
+   "s": "2026-11-21T19:45:00.000Z",
+   "title": "RC Lens vs Toulouse"
+  },
+  {
+   "c": "laliga",
+   "s": "2026-11-21T20:00:00.000Z",
+   "title": "Real Madrid vs Celta Vigo"
+  },
+  {
+   "c": "arg",
+   "s": "2026-11-21T20:00:00.000Z",
+   "title": "Argentinos Juniors vs Independiente"
+  },
+  {
+   "c": "bra",
+   "s": "2026-11-21T20:30:00.000Z",
+   "title": "Bahia vs Coritiba"
+  },
+  {
+   "c": "bra",
+   "s": "2026-11-22T00:00:00.000Z",
+   "title": "Chapecoense vs Cruzeiro"
+  },
+  {
+   "c": "sa",
+   "s": "2026-11-22T11:30:00.000Z",
+   "title": "Juventus vs Venezia"
+  },
+  {
+   "c": "laliga",
+   "s": "2026-11-22T13:00:00.000Z",
+   "title": "Barcelona vs Villarreal"
+  },
+  {
+   "c": "pl",
+   "s": "2026-11-22T14:00:00.000Z",
+   "title": "Hull City vs Brighton and Hove Albion"
+  },
+  {
+   "c": "sa",
+   "s": "2026-11-22T14:00:00.000Z",
+   "title": "Bologna vs Udinese"
+  },
+  {
+   "c": "sa",
+   "s": "2026-11-22T14:00:00.000Z",
+   "title": "Sassuolo vs Genoa"
+  },
+  {
+   "c": "l1",
+   "s": "2026-11-22T14:00:00.000Z",
+   "title": "Paris FC vs Angers"
+  },
+  {
+   "c": "bl",
+   "s": "2026-11-22T14:30:00.000Z",
+   "title": "Augsburg vs FSV Mainz 05"
+  },
+  {
+   "c": "laliga",
+   "s": "2026-11-22T15:15:00.000Z",
+   "title": "Real Racing Club de Santander vs Real Sociedad"
+  },
+  {
+   "c": "l1",
+   "s": "2026-11-22T16:15:00.000Z",
+   "title": "Lorient vs Rennes"
+  },
+  {
+   "c": "pl",
+   "s": "2026-11-22T16:30:00.000Z",
+   "title": "Liverpool vs Manchester United"
+  },
+  {
+   "c": "bl",
+   "s": "2026-11-22T16:30:00.000Z",
+   "title": "Werder Bremen vs Hamburger SV"
+  },
+  {
+   "c": "sa",
+   "s": "2026-11-22T17:00:00.000Z",
+   "title": "AC Milan vs Frosinone"
+  },
+  {
+   "c": "laliga",
+   "s": "2026-11-22T17:30:00.000Z",
+   "title": "CA Osasuna vs Málaga"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-22T18:00:00.000Z",
+   "title": "Kansas City Chiefs vs Arizona Cardinals"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-22T18:00:00.000Z",
+   "title": "Carolina Panthers vs Baltimore Ravens"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-22T18:00:00.000Z",
+   "title": "Buffalo Bills vs Miami Dolphins"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-22T18:00:00.000Z",
+   "title": "Chicago Bears vs New Orleans Saints"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-22T18:00:00.000Z",
+   "title": "Dallas Cowboys vs Tennessee Titans"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-22T18:00:00.000Z",
+   "title": "Detroit Lions vs Tampa Bay Buccaneers"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-22T18:00:00.000Z",
+   "title": "Philadelphia Eagles vs Pittsburgh Steelers"
+  },
+  {
+   "c": "arg",
+   "s": "2026-11-22T19:00:00.000Z",
+   "title": "Rosario Central vs Gimnasia Mendoza"
+  },
+  {
+   "c": "bra",
+   "s": "2026-11-22T19:00:00.000Z",
+   "title": "Atletico Paranaense vs Remo"
+  },
+  {
+   "c": "sa",
+   "s": "2026-11-22T19:45:00.000Z",
+   "title": "Atalanta BC vs Inter Milan"
+  },
+  {
+   "c": "l1",
+   "s": "2026-11-22T19:45:00.000Z",
+   "title": "Marseille vs Le Mans FC"
+  },
+  {
+   "c": "laliga",
+   "s": "2026-11-22T20:00:00.000Z",
+   "title": "Getafe vs Atlético Madrid"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-22T21:05:00.000Z",
+   "title": "Los Angeles Chargers vs New York Jets"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-22T21:25:00.000Z",
+   "title": "Denver Broncos vs Las Vegas Raiders"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-22T21:25:00.000Z",
+   "title": "New York Giants vs Jacksonville Jaguars"
+  },
+  {
+   "c": "bra",
+   "s": "2026-11-22T21:30:00.000Z",
+   "title": "Fluminense vs Mirassol"
+  },
+  {
+   "c": "arg",
+   "s": "2026-11-22T22:00:00.000Z",
+   "title": "River Plate vs Lanus"
+  },
+  {
+   "c": "bra",
+   "s": "2026-11-22T22:30:00.000Z",
+   "title": "Bragantino-SP vs Vasco da Gama"
+  },
+  {
+   "c": "arg",
+   "s": "2026-11-23T01:00:00.000Z",
+   "title": "Instituto de Córdoba vs Atlético Huracán"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-23T01:20:00.000Z",
+   "title": "San Francisco 49ers vs Minnesota Vikings"
+  },
+  {
+   "c": "sa",
+   "s": "2026-11-23T19:45:00.000Z",
+   "title": "Monza vs Fiorentina"
+  },
+  {
+   "c": "laliga",
+   "s": "2026-11-23T20:00:00.000Z",
+   "title": "Levante vs Elche CF"
+  },
+  {
+   "c": "pl",
+   "s": "2026-11-23T20:00:00.000Z",
+   "title": "Brentford vs Everton"
+  },
+  {
+   "c": "arg",
+   "s": "2026-11-23T20:00:00.000Z",
+   "title": "Gimnasia La Plata vs Newells Old Boys"
+  },
+  {
+   "c": "bra",
+   "s": "2026-11-23T22:30:00.000Z",
+   "title": "Internacional vs Vitoria"
+  },
+  {
+   "c": "bra",
+   "s": "2026-11-23T23:00:00.000Z",
+   "title": "Botafogo vs Sao Paulo"
+  },
+  {
+   "c": "bra",
+   "s": "2026-11-24T00:00:00.000Z",
+   "title": "Santos vs Grêmio"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-24T01:15:00.000Z",
+   "title": "Washington Commanders vs Cincinnati Bengals"
+  },
+  {
+   "c": "ucl",
+   "s": "2026-11-24T17:45:00.000Z",
+   "title": "Galatasaray vs Aston Villa"
+  },
+  {
+   "c": "ucl",
+   "s": "2026-11-24T17:45:00.000Z",
+   "title": "Bodø/Glimt vs LASK"
+  },
+  {
+   "c": "ucl",
+   "s": "2026-11-24T20:00:00.000Z",
+   "title": "Como vs AEK Athens"
+  },
+  {
+   "c": "ucl",
+   "s": "2026-11-24T20:00:00.000Z",
+   "title": "Arsenal vs Borussia Dortmund"
+  },
+  {
+   "c": "ucl",
+   "s": "2026-11-24T20:00:00.000Z",
+   "title": "Feyenoord vs Porto"
+  },
+  {
+   "c": "ucl",
+   "s": "2026-11-24T20:00:00.000Z",
+   "title": "Manchester City vs Napoli"
+  },
+  {
+   "c": "ucl",
+   "s": "2026-11-24T20:00:00.000Z",
+   "title": "Real Madrid vs PSV Eindhoven"
+  },
+  {
+   "c": "ucl",
+   "s": "2026-11-24T20:00:00.000Z",
+   "title": "RB Leipzig vs RC Lens"
+  },
+  {
+   "c": "ucl",
+   "s": "2026-11-24T20:00:00.000Z",
+   "title": "ŠK Slovan Bratislava vs Real Betis"
+  },
+  {
+   "c": "bra",
+   "s": "2026-11-24T21:00:00.000Z",
+   "title": "Chapecoense vs Palmeiras"
+  },
+  {
+   "c": "ucl",
+   "s": "2026-11-25T17:45:00.000Z",
+   "title": "Sabah FK vs Barcelona"
+  },
+  {
+   "c": "ucl",
+   "s": "2026-11-25T17:45:00.000Z",
+   "title": "Slavia Praha vs Villarreal"
+  },
+  {
+   "c": "ucl",
+   "s": "2026-11-25T20:00:00.000Z",
+   "title": "Paris Saint Germain vs AS Roma"
+  },
+  {
+   "c": "ucl",
+   "s": "2026-11-25T20:00:00.000Z",
+   "title": "Atlético Madrid vs Viking FK"
+  },
+  {
+   "c": "ucl",
+   "s": "2026-11-25T20:00:00.000Z",
+   "title": "Lille vs Bayern Munich"
+  },
+  {
+   "c": "ucl",
+   "s": "2026-11-25T20:00:00.000Z",
+   "title": "Club Brugge vs Liverpool"
+  },
+  {
+   "c": "ucl",
+   "s": "2026-11-25T20:00:00.000Z",
+   "title": "Shakhtar Donetsk vs Fenerbahce"
+  },
+  {
+   "c": "ucl",
+   "s": "2026-11-25T20:00:00.000Z",
+   "title": "Inter Milan vs VfB Stuttgart"
+  },
+  {
+   "c": "ucl",
+   "s": "2026-11-25T20:00:00.000Z",
+   "title": "Sporting Lisbon vs Manchester United"
+  },
+  {
+   "c": "bra",
+   "s": "2026-11-25T23:00:00.000Z",
+   "title": "Atletico Mineiro vs Corinthians"
+  },
+  {
+   "c": "arg",
+   "s": "2026-11-26T00:00:00.000Z",
+   "title": "Boca Juniors vs Independiente Rivadavia"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-26T01:00:00.000Z",
+   "title": "Los Angeles Rams vs Green Bay Packers"
+  },
+  {
+   "c": "uel",
+   "s": "2026-11-26T17:45:00.000Z",
+   "title": "Olympiakos Piraeus vs AC Milan"
+  },
+  {
+   "c": "uel",
+   "s": "2026-11-26T17:45:00.000Z",
+   "title": "Dinamo Zagreb vs Bayer Leverkusen"
+  },
+  {
+   "c": "uel",
+   "s": "2026-11-26T17:45:00.000Z",
+   "title": "Viktoria Plzeň vs Benfica"
+  },
+  {
+   "c": "uel",
+   "s": "2026-11-26T17:45:00.000Z",
+   "title": "Besiktas JK vs Hapoel Be'er Sheva"
+  },
+  {
+   "c": "uel",
+   "s": "2026-11-26T17:45:00.000Z",
+   "title": "Celta Vigo vs Bournemouth"
+  },
+  {
+   "c": "uel",
+   "s": "2026-11-26T17:45:00.000Z",
+   "title": "Salzburg vs FC Ararat-Armenia"
+  },
+  {
+   "c": "uel",
+   "s": "2026-11-26T17:45:00.000Z",
+   "title": "Union Saint-Gilloise vs Lech Poznań"
+  },
+  {
+   "c": "uel",
+   "s": "2026-11-26T17:45:00.000Z",
+   "title": "Marseille vs PFC Levski Sofia"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-26T18:00:00.000Z",
+   "title": "Detroit Lions vs Chicago Bears"
+  },
+  {
+   "c": "uel",
+   "s": "2026-11-26T20:00:00.000Z",
+   "title": "Sparta Prague vs AZ Alkmaar"
+  },
+  {
+   "c": "uel",
+   "s": "2026-11-26T20:00:00.000Z",
+   "title": "OFI Crete vs Anderlecht"
+  },
+  {
+   "c": "uel",
+   "s": "2026-11-26T20:00:00.000Z",
+   "title": "Torreense vs Celtic"
+  },
+  {
+   "c": "uel",
+   "s": "2026-11-26T20:00:00.000Z",
+   "title": "Crystal Palace vs Real Sociedad"
+  },
+  {
+   "c": "uel",
+   "s": "2026-11-26T20:00:00.000Z",
+   "title": "Ferencváros TC vs NK Celje"
+  },
+  {
+   "c": "uel",
+   "s": "2026-11-26T20:00:00.000Z",
+   "title": "Sunderland vs Jagiellonia Białystok"
+  },
+  {
+   "c": "uel",
+   "s": "2026-11-26T20:00:00.000Z",
+   "title": "Juventus vs Omonoia FC"
+  },
+  {
+   "c": "uel",
+   "s": "2026-11-26T20:00:00.000Z",
+   "title": "Lyon vs Lillestrom"
+  },
+  {
+   "c": "uel",
+   "s": "2026-11-26T20:00:00.000Z",
+   "title": "NEC Nijmegen vs Rennes"
+  },
+  {
+   "c": "uel",
+   "s": "2026-11-26T20:00:00.000Z",
+   "title": "TSG Hoffenheim vs SK Sturm Graz"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-26T21:30:00.000Z",
+   "title": "Dallas Cowboys vs Philadelphia Eagles"
+  },
+  {
+   "c": "bra",
+   "s": "2026-11-26T23:00:00.000Z",
+   "title": "Sao Paulo vs Remo"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-27T01:20:00.000Z",
+   "title": "Buffalo Bills vs Kansas City Chiefs"
+  },
+  {
+   "c": "bl",
+   "s": "2026-11-27T19:30:00.000Z",
+   "title": "Werder Bremen vs Borussia Monchengladbach"
+  },
+  {
+   "c": "sa",
+   "s": "2026-11-27T19:45:00.000Z",
+   "title": "Venezia vs Bologna"
+  },
+  {
+   "c": "l1",
+   "s": "2026-11-27T19:45:00.000Z",
+   "title": "Brest vs Paris FC"
+  },
+  {
+   "c": "laliga",
+   "s": "2026-11-27T20:00:00.000Z",
+   "title": "Levante vs Real Racing Club de Santander"
+  },
+  {
+   "c": "pl",
+   "s": "2026-11-27T20:00:00.000Z",
+   "title": "Nottingham Forest vs Chelsea"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-27T20:00:00.000Z",
+   "title": "Pittsburgh Steelers vs Denver Broncos"
+  },
+  {
+   "c": "pt",
+   "s": "2026-11-27T20:15:00.000Z",
+   "title": "CS Maritimo vs Nacional"
+  },
+  {
+   "c": "bra",
+   "s": "2026-11-27T23:00:00.000Z",
+   "title": "Fluminense vs Cruzeiro"
+  },
+  {
+   "c": "laliga",
+   "s": "2026-11-28T13:00:00.000Z",
+   "title": "Real Betis vs Rayo Vallecano"
+  },
+  {
+   "c": "sa",
+   "s": "2026-11-28T14:00:00.000Z",
+   "title": "Frosinone vs Parma"
+  },
+  {
+   "c": "bl",
+   "s": "2026-11-28T14:30:00.000Z",
+   "title": "1. FC Köln vs Elversberg"
+  },
+  {
+   "c": "bl",
+   "s": "2026-11-28T14:30:00.000Z",
+   "title": "Hamburger SV vs Bayern Munich"
+  },
+  {
+   "c": "bl",
+   "s": "2026-11-28T14:30:00.000Z",
+   "title": "SC Paderborn vs FC Schalke 04"
+  },
+  {
+   "c": "bl",
+   "s": "2026-11-28T14:30:00.000Z",
+   "title": "FSV Mainz 05 vs Union Berlin"
+  },
+  {
+   "c": "pl",
+   "s": "2026-11-28T15:00:00.000Z",
+   "title": "Manchester United vs Brentford"
+  },
+  {
+   "c": "pl",
+   "s": "2026-11-28T15:00:00.000Z",
+   "title": "Leeds United vs Coventry City"
+  },
+  {
+   "c": "laliga",
+   "s": "2026-11-28T15:15:00.000Z",
+   "title": "Málaga vs Athletic Bilbao"
+  },
+  {
+   "c": "pt",
+   "s": "2026-11-28T15:30:00.000Z",
+   "title": "Arouca vs Rio Ave FC"
+  },
+  {
+   "c": "pt",
+   "s": "2026-11-28T15:30:00.000Z",
+   "title": "Moreirense FC vs Santa Clara"
+  },
+  {
+   "c": "l1",
+   "s": "2026-11-28T16:15:00.000Z",
+   "title": "Angers vs RC Lens"
+  },
+  {
+   "c": "sa",
+   "s": "2026-11-28T17:00:00.000Z",
+   "title": "Torino vs Lazio"
+  },
+  {
+   "c": "laliga",
+   "s": "2026-11-28T17:30:00.000Z",
+   "title": "Elche CF vs Atlético Madrid"
+  },
+  {
+   "c": "pl",
+   "s": "2026-11-28T17:30:00.000Z",
+   "title": "Ipswich Town vs Aston Villa"
+  },
+  {
+   "c": "bl",
+   "s": "2026-11-28T17:30:00.000Z",
+   "title": "VfB Stuttgart vs Eintracht Frankfurt"
+  },
+  {
+   "c": "pt",
+   "s": "2026-11-28T18:00:00.000Z",
+   "title": "Académico de Viseu vs Alverca"
+  },
+  {
+   "c": "sa",
+   "s": "2026-11-28T19:45:00.000Z",
+   "title": "Inter Milan vs Genoa"
+  },
+  {
+   "c": "l1",
+   "s": "2026-11-28T19:45:00.000Z",
+   "title": "Le Havre vs Strasbourg"
+  },
+  {
+   "c": "l1",
+   "s": "2026-11-28T19:45:00.000Z",
+   "title": "Le Mans FC vs Lille"
+  },
+  {
+   "c": "l1",
+   "s": "2026-11-28T19:45:00.000Z",
+   "title": "Paris Saint Germain vs Lorient"
+  },
+  {
+   "c": "l1",
+   "s": "2026-11-28T19:45:00.000Z",
+   "title": "Nice vs Troyes"
+  },
+  {
+   "c": "laliga",
+   "s": "2026-11-28T20:00:00.000Z",
+   "title": "Real Madrid vs Alavés"
+  },
+  {
+   "c": "pt",
+   "s": "2026-11-28T20:30:00.000Z",
+   "title": "Vitória SC vs CF Estrela"
+  },
+  {
+   "c": "bra",
+   "s": "2026-11-29T00:00:00.000Z",
+   "title": "Botafogo vs Bahia"
+  },
+  {
+   "c": "sa",
+   "s": "2026-11-29T11:30:00.000Z",
+   "title": "Udinese vs Fiorentina"
+  },
+  {
+   "c": "pl",
+   "s": "2026-11-29T12:00:00.000Z",
+   "title": "Everton vs Liverpool"
+  },
+  {
+   "c": "laliga",
+   "s": "2026-11-29T13:00:00.000Z",
+   "title": "Valencia vs CA Osasuna"
+  },
+  {
+   "c": "sa",
+   "s": "2026-11-29T14:00:00.000Z",
+   "title": "Sassuolo vs Napoli"
+  },
+  {
+   "c": "l1",
+   "s": "2026-11-29T14:00:00.000Z",
+   "title": "Auxerre vs Marseille"
+  },
+  {
+   "c": "pl",
+   "s": "2026-11-29T14:05:00.000Z",
+   "title": "Fulham vs Bournemouth"
+  },
+  {
+   "c": "pl",
+   "s": "2026-11-29T14:05:00.000Z",
+   "title": "Brighton and Hove Albion vs Newcastle United"
+  },
+  {
+   "c": "pl",
+   "s": "2026-11-29T14:05:00.000Z",
+   "title": "Crystal Palace vs Hull City"
+  },
+  {
+   "c": "pl",
+   "s": "2026-11-29T14:05:00.000Z",
+   "title": "Sunderland vs Tottenham Hotspur"
+  },
+  {
+   "c": "bl",
+   "s": "2026-11-29T14:30:00.000Z",
+   "title": "SC Freiburg vs RB Leipzig"
+  },
+  {
+   "c": "laliga",
+   "s": "2026-11-29T15:15:00.000Z",
+   "title": "Deportivo La Coruña vs Barcelona"
+  },
+  {
+   "c": "l1",
+   "s": "2026-11-29T16:15:00.000Z",
+   "title": "Toulouse vs Rennes"
+  },
+  {
+   "c": "pl",
+   "s": "2026-11-29T16:30:00.000Z",
+   "title": "Arsenal vs Manchester City"
+  },
+  {
+   "c": "bl",
+   "s": "2026-11-29T16:30:00.000Z",
+   "title": "TSG Hoffenheim vs Augsburg"
+  },
+  {
+   "c": "sa",
+   "s": "2026-11-29T17:00:00.000Z",
+   "title": "AS Roma vs Monza"
+  },
+  {
+   "c": "laliga",
+   "s": "2026-11-29T17:30:00.000Z",
+   "title": "Celta Vigo vs Villarreal"
+  },
+  {
+   "c": "pt",
+   "s": "2026-11-29T18:00:00.000Z",
+   "title": "Gil Vicente vs Estoril"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-29T18:00:00.000Z",
+   "title": "Minnesota Vikings vs Atlanta Falcons"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-29T18:00:00.000Z",
+   "title": "Houston Texans vs Baltimore Ravens"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-29T18:00:00.000Z",
+   "title": "Cincinnati Bengals vs New Orleans Saints"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-29T18:00:00.000Z",
+   "title": "Indianapolis Colts vs New York Giants"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-29T18:00:00.000Z",
+   "title": "Jacksonville Jaguars vs Tennessee Titans"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-29T18:00:00.000Z",
+   "title": "Miami Dolphins vs New York Jets"
+  },
+  {
+   "c": "bl",
+   "s": "2026-11-29T18:30:00.000Z",
+   "title": "Borussia Dortmund vs Bayer Leverkusen"
+  },
+  {
+   "c": "sa",
+   "s": "2026-11-29T19:45:00.000Z",
+   "title": "Como vs Juventus"
+  },
+  {
+   "c": "l1",
+   "s": "2026-11-29T19:45:00.000Z",
+   "title": "Lyon vs AS Monaco"
+  },
+  {
+   "c": "laliga",
+   "s": "2026-11-29T20:00:00.000Z",
+   "title": "Real Sociedad vs Sevilla"
+  },
+  {
+   "c": "pt",
+   "s": "2026-11-29T20:30:00.000Z",
+   "title": "FC Porto vs Sporting Lisbon"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-29T21:05:00.000Z",
+   "title": "Los Angeles Chargers vs New England Patriots"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-29T21:25:00.000Z",
+   "title": "Arizona Cardinals vs Washington Commanders"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-29T21:25:00.000Z",
+   "title": "San Francisco 49ers vs Seattle Seahawks"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-11-30T01:20:00.000Z",
+   "title": "Cleveland Browns vs Las Vegas Raiders"
+  },
+  {
+   "c": "sa",
+   "s": "2026-11-30T17:30:00.000Z",
+   "title": "Lecce vs Atalanta BC"
+  },
+  {
+   "c": "sa",
+   "s": "2026-11-30T19:45:00.000Z",
+   "title": "Cagliari vs AC Milan"
+  },
+  {
+   "c": "laliga",
+   "s": "2026-11-30T20:00:00.000Z",
+   "title": "Espanyol vs Getafe"
+  },
+  {
+   "c": "pt",
+   "s": "2026-11-30T20:15:00.000Z",
+   "title": "Benfica vs Famalicão"
+  },
+  {
+   "c": "pt",
+   "s": "2026-11-30T20:15:00.000Z",
+   "title": "Casa Pia vs Braga"
+  },
+  {
+   "c": "nfl",
+   "s": "2026-12-01T01:15:00.000Z",
+   "title": "Tampa Bay Buccaneers vs Carolina Panthers"
+  }
+ ]
+}
